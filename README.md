@@ -1,83 +1,87 @@
-## Jack Huang
+## This is Jack Huang
+### Senior Front End Engineer
 
-* Github : [https://github.com/hlissnake](https://github.com/hlissnake)
+=====
 
 
-### Summary
+## Summary
 
-* Solid background in Web development, with working 8 years on internet industry, had roles varying form Java full-stack developer to Senior Front End Engineer. 
-
-* As a major role in serval innovative projects which enhance the interaction of the online shopping, like Game, Virtual Reality, AR, Motion Gestures, etc.
-
-* Master in UI techs, such as Canvas api, basic 3D, High-performance Animations, especially on Mobile platform.
-
-* Currently working at Alibaba Group, with extensive experiences on javascript and web applications. Strong ability for building usable, responsive, elegant front-end solutions. 
-
-* Prior to be a Front-end developer, I had been working as a Java full-stack developer for 4 years with experience related to business web system. also have some experiences in #C.Net, SQL.
+* Solid experiences in Web development, with working 8 years on software industry, had roles varying from Java full-stack developer to Senior Front End Engineer. 
+* Strong ability for building usable, responsive, elegant front-end solutions for developing SPAs. 
+* Proficient in high-performance animation and web canvas.
+* Proficient in OOP JavaScript and Module management like CMD, AMD, CommonJS.
+* Skilled on leading libs like Angular, React, Backbone, Extjs.
+* Good understanding in algorithm of JS libs like Angular, React, Game Engine.
+* Participating in a Open Source project.
+* Skilled on Java full-stack development, with extensive experience of J2EE. 
+* Experiences in ASP.NET, SQL Database.
 
 * My strengths:
-
-	* Proven fast learning skill;
+	* Fast learning skill;
 	* Passion on new techniques;
 	* Ability to bring new ideas to the table;
-	* Determination of technologies choice for team;
+	* Determination of technologies choice;
 	* Great English communication Skills;
 
-### Skill
+## Skills
 ```
 var skills = {
 	"Front End" : {
-		"Javascript" 	: "advanced",
-		"HTML5" 		: "skillful",
-		"Canvas"		: "skillful"
-		"CSS3" 			: "skillful",
-		"Web Game" 		: "skillful",
-		"Mobile Hybrid"	: "skillful",
-		"AngularJS" 	: "skillful",
-		"React.js" 		: "familiar",
+		"Javascript" 	: "Proficient",
+		"HTML5" 		: "Proficient",
+		"Canvas"		: "Proficient"
+		"CSS3" 			: "Skilled",
+		"Web Game" 		: "Skilled",
+		"Mobile Hybrid"	: "Skilled",
+		"AngularJS" 	: "Skilled",
+		"React.js" 		: "Skilled",
 		"Backbone.js" 	: "familiar",
-		"SASS/LESS" 	: "skillful",
-		"Extjs"			: "familiar"
+		"Node.js" 		: "familiar",
+		"SASS/LESS" 	: "familiar",
+		"Extjs"			: "Skilled"
 	},
 	"Dev" : {
-		"Git" 			: "skillful",
-		"Grunt/Gulp" 	: "skillful",
-		"Yeoman" 		: "familiar",
-		"Unit Testing"	: "familiar",
-		"Agile/TDD" 	: "familiar"
+		"Git" 				 : "Skilled",
+		"Grunt/Gulp" 		 : "Skilled",		
+		"Webpack/browserify" : "familiar",
+		"NPM" 			 	 : "familiar",	
+		"Yeoman" 			 : "familiar",
+		"Design Pattern"	 : "Skilled",
+		"Unit Testing"		 : "familiar",
+		"Agile/TDD" 		 : "familiar"
 	},
 	"Back End" : {
-		"Java/J2EE" 	: "skillful",
-		"Struts" 		: "skillful",
-		"Node.js" 		: "familiar",
+		"Java/J2EE" 	: "Skilled",
+		"Struts" 		: "Skilled",
+		"SQL" 			: "familiar",
 		".NET" 			: "familiar",
-		"Spring MVC" 	: "familiar",
-		"SQL" 			: "skillful"
+		"Spring MVC" 	: "familiar"
 	}
 }
 ```
 
-### Experiences
+## Experiences
 
 * #### Senior Front-end Engineer 
   
-  `Alibaba-inc` 
+  `Alibaba Group` 
   
   from 2011-7 to Current
 
-	* Had worked in Taobao UED, LaiWang App, Tmall Tech departments, being responsible for front end development: Mobile hybrid, HTML5, Game and leading libs like Angular,React,Backbone,Node,Gulp.
-	* Responsible for front end performance optimization, new techniques researching and recommendation. 
+	* Worked in Taobao UED, LaiWang, Tmall departments, being responsible for front end development, like Mobile hybrid, HTML5, Webapp.
+	* As a major role in innovative projects enhanced the interaction of the e-business, like Games, Virtual Reality, Real-time app.
+	* Responsible for performance optimization, new techniques researching and recommendation as the leading role. 
+	* Produced the MVC Components Solution for internal projects.
 	* Participated in architecture design and product design.
-	* Be undertaking several important projects as the leading role. 
 	
 * #### Java Web Engineer
 
-  `Longtop`
+  `Longtop Grouop`
   
   from 2009-9 to 2011-7 
   
 	* Responsible for Web full-stack development. Frontend, Java, sql, java application for the financial system of bank. 
-	* Became the Javascript/UI Expert in the project, especially in Extjs component extensions.
+	* As the Javascript/UI Expert in the project, especially in Extjs component extensions.
 
 * #### Java Web Developer
 
@@ -89,22 +93,85 @@ var skills = {
 	* Had worked in Japan as a support developer in local project team, due to my excellent performance in my team.
 
 
-### Projects
+## Projects
 
-* Hilo Game Engine
-* DingTalk IM Webapp (AngularJS)
-* React native/React.js
-* Tmall App hybrid Webapp
-* Virtual Reality inside car
-* GCanvas Webview Enhanced API
-* Games in Laiwang App
-* Laiwang Hybrid framework
-* Laiwang Backend System
-* Taobao Quality Center System:
-	* Responsible for front-end development and designing of the front-end architecture for this project.
-	* Designed a complex UI Component to show user's qualities certification, which including category tree, grid, customized input ui.
-    * http://gitlab.alibaba-inc.com/tbc/category/tree/master
-    * http://gitlab.alibaba-inc.com/tb/qcenter/network/publish/1.0.0 
-* Taobao Operation Platform
-    * http://gitlab.alibaba-inc.com/ocp/ocp/tree/master/Documents/libraMarketing 
-* Japan EDINET
+* ##### Hilo Game Engine
+    * A Cross-end HTML5 Game development solution, could help developers build web games conveniently in minutes.
+	* Participated in features design. Responsible for npm, modules wrap, testing, plugins, and game tools.
+	* Still on the open-source process to eventually release on Github. [https://github.com/hiloteam/](https://github.com/hiloteam/)
+	 
+* ##### DingTalk IM Webapp ([Online URL](https://im.dingtalk.com))
+	* A Real-time communicate webapp built by AngularJS. Deployed both in web and desktop wrapped by NodeWebkit.  
+	* Responsible for dev entertainment. Developed gulp task to build project. Using Karma for unit-testing to practise TDD.
+	* Developed Modules and Common Derectives. Resolved the performance issues involves Angular dirty check loop.
+	
+* ##### React Project
+    * Responsible for the practice and researching of React for my team.
+    * Be familiar with the Virtual Dom Diff Algorithm. Have practical knowledge about React animation and performance.
+    * Be undertaking an ongoing React/React-native project currently. Using ES6, Npm, CommonJS, Webpack for project development.
+    
+* ##### hybrid Webapps in TmallApp
+    * `Car Race Game`: 
+    	* Developed in high secure javascript to prevent cheating in game. My team produced policies to detect the javascript hacking and illegal actions.
+    	* Responsible for the Car Drift Physical Simulation, and participated in front-end security solution.
+	* `Real-time Gambling game`: 
+		* a SPA Webapp developed by heart-beat connection and Hash router, which achieve a views lifecycle similar to Mobile native.
+		* Using `'Finite State Machine'` algorithm to manage the app states.
+		* Using `'Pseudo-3d'` to enhanced the animation effects.
+
+* ##### Virtual Reality webapps
+    * The innovative project to enhanced e-business interaction. Deployed in TmallApp hybrid.
+    * Using mobile orientation api to detect device's rotation and motion. By calculating multiple matrixs to achieve VR experience on mobile web.
+    * Support multiple render models: Canvas2d, CSS3, WebGL. Developed as the Pseudo-3d effect in canvas2d context, 
+
+* ##### GCanvas - Enhanced Canvas API in Webview
+    * Participated in a webview enhanced plugin for Android platform. it can improve the canvas2d and WebGL performance in Android webview significantly.
+    * Responsible for plugin's api design, and testing canvas api in practical games
+
+* ##### Games in Laiwang App
+	* Web Games published inside Laiwang App. Developed by "Phaser" game engine and my [Com.js](https://github.com/hlissnake/com.js) canvas library. Deployed on hybrid environment.
+	* [Jumping Tofu](h5.m.taobao.com/laiwang/game/tofu/index.html)
+    * [Jumping Ball](h5.m.taobao.com/laiwang/game/jump/index.html)
+
+* ##### Hybrid JS framework in LaiwangApp
+    * Designed and developed the entire js-bridge library for Laiwang App, both on iOS and Android;
+    * Designed and tested hybrid native apis to enhance the webview functionality.
+
+* ##### Laiwang Public Account Backend System
+    * Backend Operation System for Laiwang public account management. 
+    * Responsible for developing new features using Backbone.js. Such as Tree-menu component. Using TmodJS which is a pre-compiled Template lib, to render the html tpl efficiently.
+
+* ##### Taobao Quality Center System (2013)
+	* Responsible for front-end development and designing of the front-end architecture for the project.
+	* Designed a particular UI Component to show qualities certification, based on OOP design, UI lifecycle, Event delegation, and JS Template.
+   
+* ##### Taobao Operation Platform (2012)
+    * Be in charge of project management, and front-end architecture design. Also responsible for core module development.
+    * Produced a Internal UI Component Library called "OCP", focus on backend system, such as: "Grid", "Tree", "Forest(multiple trees)", etc.
+    
+* ##### Agricultural Bank of China, CMS3 (2011)
+    * Credit Management System developed by Java web. 
+	* Responsible for Javascript, Java, SQL, Unit testing, using Extjs for the RIA development.
+	* get the opportunity of promoting myself to front end career path.
+
+* ##### Japan EDINET (2008)
+	* Working in Japan for Japan Financial EDINET system. Responsible for java development and unit testing, Using JSP, Java and SQL. 
+	* Implemented functionalities like: Jsp Grid Paging, Data List Sorting, etc.
+
+## Portfolio
+
+* `Github`: [https://github.com/hlissnake](https://github.com/hlissnake)
+
+* `Com.js` [github repo](https://github.com/hlissnake/com.js) : * A Virtual Display Object Library for html5 canvas basic graphic.
+
+* `Enhanced Javascript Library` [github repo](https://hlissnake.github.io/HL-JS-Library/)
+
+* `Virtual Reaity`: recommend open it in mobile
+    * [Stars Ocean](http://www.tmall.com/go/chn/common/tgp-startui.php)
+    * [In Cockpit](http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=1)
+    * [In Cockpit 2](http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=2)
+    * [Cockpit WebGL](http://hlissnake.github.io/vr/demo/webgl.html)
+ 
+* `Real-time Gambling Webapp`: Depending on hybrid network, cannot run on web.
+	* [screenshots](http://hlissnake.github.io/image/hitpoint.gif)
+	* [screenshots2](http://hlissnake.github.io/image/hitpoint2.gif)
