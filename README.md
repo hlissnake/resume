@@ -31,14 +31,14 @@
 * #### Front End
 	* Javascript,
 	* HTML5,
-	* Canvas
 	* CSS3,
-	* Web Game,
-	* Mobile Hybrid,
 	* React.js",
 	* AngularJS,
 	* Backbone.js,
 	* Extjs,
+	* Web Game,
+	* Canvas
+	* Mobile Hybrid,
 	* Node.js,
 	* Jquery/Zepto,
 	* SASS/LESS
@@ -166,7 +166,7 @@
 
 * `Github`: [https://github.com/hlissnake](https://github.com/hlissnake)
 
-* `Com.js` [github repo](https://github.com/hlissnake/com.js) : * A Virtual Display Object Library for html5 canvas basic graphic.
+* `Com.js` [github repo](https://github.com/hlissnake/com.js) : A Virtual Display Object Library for html5 canvas basic graphic.
 
 * `Enhanced Javascript Library` [github repo](https://hlissnake.github.io/HL-JS-Library/)
 
