@@ -1,21 +1,25 @@
 ## This is Jack Huang
-### Senior Front End Engineer
+
+* Working on software industry for 8 years, had roles varying from Java full-stack developer to Senior Front End Engineer. 
+* Being Senior Engineer in the world's biggest e-commerce company for 4 years.
+* New Zealand Work Permitted
 
 =====
 
 
 ## Summary
 
-* Solid experiences in Web development, with working 8 years on software industry, had roles varying from Java full-stack developer to Senior Front End Engineer. 
-* Strong ability for building usable, responsive, elegant front-end solutions for developing SPAs. 
-* Proficient in high-performance animation and web canvas.
-* Proficient in OOP JavaScript and Module management like CMD, AMD, CommonJS.
+* As the core role for innovative technologies and projects in the team.
+* Strong ability for building usable, responsive, elegant front-end solutions for SPAs.
+* Proficient in OOP JavaScript and Java.
+* Skilled on high-performance UI animation.
 * Skilled on leading libs like Angular, React, Backbone, Extjs.
-* Good understanding in algorithm of JS libs like Angular, React, Game Engine.
-* Participating in a Open Source project.
-* Skilled on Java full-stack development, with extensive experience of J2EE. 
-* Experiences in ASP.NET, SQL Database.
-
+* Good understanding in algorithm of libs like React, Game Engine, Angular.
+* Good understanding in CSS3/Canvas transform involving matrix 2d/3d algorithm.
+* Participating in Open Source project.
+* Skilled on Java web, with experience of J2EE libs like Struts, Spring. 
+* Familiar with RESTful api, Web service, AJAX, JSONP, Websocket.
+* Experiences in ASP.NET, Oracle, MySql, Hibernate.
 * My strengths:
 	* Fast learning skill;
 	* Passion on new techniques;
@@ -23,54 +27,52 @@
 	* Determination of technologies choice;
 	* Great English communication Skills;
 
-## Skills
-```
-var skills = {
-	"Front End" : {
-		"Javascript" 	: "Proficient",
-		"HTML5" 		: "Proficient",
-		"Canvas"		: "Proficient"
-		"CSS3" 			: "Skilled",
-		"Web Game" 		: "Skilled",
-		"Mobile Hybrid"	: "Skilled",
-		"AngularJS" 	: "Skilled",
-		"React.js" 		: "Skilled",
-		"Backbone.js" 	: "familiar",
-		"Node.js" 		: "familiar",
-		"SASS/LESS" 	: "familiar",
-		"Extjs"			: "Skilled"
-	},
-	"Dev" : {
-		"Git" 				 : "Skilled",
-		"Grunt/Gulp" 		 : "Skilled",		
-		"Webpack/browserify" : "familiar",
-		"NPM" 			 	 : "familiar",	
-		"Yeoman" 			 : "familiar",
-		"Design Pattern"	 : "Skilled",
-		"Unit Testing"		 : "familiar",
-		"Agile/TDD" 		 : "familiar"
-	},
-	"Back End" : {
-		"Java/J2EE" 	: "Skilled",
-		"Struts" 		: "Skilled",
-		"SQL" 			: "familiar",
-		".NET" 			: "familiar",
-		"Spring MVC" 	: "familiar"
-	}
-}
-```
+## Expertise
+* #### Front End
+	* Javascript,
+	* HTML5,
+	* Canvas
+	* CSS3,
+	* Web Game,
+	* Mobile Hybrid,
+	* React.js",
+	* AngularJS,
+	* Backbone.js,
+	* Extjs,
+	* Node.js,
+	* Jquery/Zepto,
+	* SASS/LESS
+
+* #### Dev
+	* Git,
+	* Grunt/Gulp,		
+	* Webpack/browserify,
+	* NPM,	
+	* Yeoman,
+	* Design Pattern,
+	* Unit Testing,
+	* Agile/TDD
+	
+* #### Back End
+	* Java/J2EE,
+	* Struts,
+	* Spring MVC,
+	* WebServer: Apache, Node-express
+	* SQL,
+	* .NET
+	
 
 ## Experiences
 
 * #### Senior Front-end Engineer 
   
-  `Alibaba Group` 
+  `Alibaba Group` : Alibaba is the world’s biggest online commerce company, having hundreds of millions of users. Transactions on its online sites totaled $248 billion last year
   
   from 2011-7 to Current
 
-	* Worked in Taobao UED, LaiWang, Tmall departments, being responsible for front end development, like Mobile hybrid, HTML5, Webapp.
-	* As a major role in innovative projects enhanced the interaction of the e-business, like Games, Virtual Reality, Real-time app.
-	* Responsible for performance optimization, new techniques researching and recommendation as the leading role. 
+	* Worked in several leading product departments, being responsible for front end development, like Mobile hybrid, HTML5, Webapp.
+	* As a major role in innovative projects enhanced the interaction of the e-commerce, like Games, Virtual Reality, Real-time app.
+	* Responsible for performance optimization, new techniques researching and recommendation as the core role. 
 	* Produced the MVC Components Solution for internal projects.
 	* Participated in architecture design and product design.
 	
@@ -97,13 +99,13 @@ var skills = {
 
 * ##### Hilo Game Engine
     * A Cross-end HTML5 Game development solution, could help developers build web games conveniently in minutes.
-	* Participated in features design. Responsible for npm, modules wrap, testing, plugins, and game tools.
+	* Participated as a team memebar of team in features design. Responsible for npm, modules wrap, testing, plugins, and game tools.
 	* Still on the open-source process to eventually release on Github. [https://github.com/hiloteam/](https://github.com/hiloteam/)
 	 
 * ##### DingTalk IM Webapp ([Online URL](https://im.dingtalk.com))
 	* A Real-time communicate webapp built by AngularJS. Deployed both in web and desktop wrapped by NodeWebkit.  
 	* Responsible for dev entertainment. Developed gulp task to build project. Using Karma for unit-testing to practise TDD.
-	* Developed Modules and Common Derectives. Resolved the performance issues involves Angular dirty check loop.
+	* Developed Modules and Common Derectives. Working with PM resolved the performance issues involves Angular dirty check loop.
 	
 * ##### React Project
     * Responsible for the practice and researching of React for my team.
@@ -112,10 +114,12 @@ var skills = {
     
 * ##### hybrid Webapps in TmallApp
     * `Car Race Game`: 
+        * A Race Game developed by Hilo Engine. as the core developer working with teammates well.
     	* Developed in high secure javascript to prevent cheating in game. My team produced policies to detect the javascript hacking and illegal actions.
     	* Responsible for the Car Drift Physical Simulation, and participated in front-end security solution.
 	* `Real-time Gambling game`: 
-		* a SPA Webapp developed by heart-beat connection and Hash router, which achieve a views lifecycle similar to Mobile native.
+	    * A successful game allow users to compete in TmallApp by betting scores, last for several months in high PV/UV.
+		* A SPA Webapp developed by heart-beat connection and self-developed Hash router, which achieve a views lifecycle similar to Mobile native.
 		* Using `'Finite State Machine'` algorithm to manage the app states.
 		* Using `'Pseudo-3d'` to enhanced the animation effects.
 
