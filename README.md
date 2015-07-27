@@ -1,8 +1,10 @@
 ## This is Jack Huang
 
 * Working on software industry for 8 years, had roles varying from Java full-stack developer to Senior Front End Engineer. 
-* Being Senior Engineer in the world's biggest e-commerce company for 4 years.
-* New Zealand Work Permitted
+* Being the senior engineer in the world's biggest e-commerce company for 4 years.
+* New Zealand Working Permitted
+* Email: [hlislichking@gmail.com](hlislichking@gmail.com)
+* Skype: [hlislichking@gmail.com](hlislichking@gmail.com)
 
 =====
 
@@ -18,7 +20,7 @@
 * Good understanding in CSS3/Canvas transform involving matrix 2d/3d algorithm.
 * Participating in Open Source project.
 * Skilled on Java web, with experience of J2EE libs like Struts, Spring. 
-* Familiar with RESTful api, Web service, AJAX, JSONP, Websocket.
+* Familiar with AJAX, JSONP, Websocket, RESTful api.
 * Experiences in ASP.NET, Oracle, MySql, Hibernate.
 * My strengths:
 	* Fast learning skill;
@@ -26,13 +28,17 @@
 	* Ability to bring new ideas to the table;
 	* Determination of technologies choice;
 	* Great English communication Skills;
+	
+## Education
+* Hebei University of Technology  from 2002 to 2006
+	* Bachelor's degree of Sciences in Information and Computing Sciences. 
 
 ## Expertise
 * #### Front End
 	* Javascript,
 	* HTML5,
 	* CSS3,
-	* React.js",
+	* React.js,
 	* AngularJS,
 	* Backbone.js,
 	* Extjs,
@@ -50,8 +56,7 @@
 	* NPM,	
 	* Yeoman,
 	* Design Pattern,
-	* Unit Testing,
-	* Agile/TDD
+	* Testing/TDD
 	
 * #### Back End
 	* Java/J2EE,
@@ -103,7 +108,7 @@
 	* Still on the open-source process to eventually release on Github. [https://github.com/hiloteam/](https://github.com/hiloteam/)
 	 
 * ##### DingTalk IM Webapp ([Online URL](https://im.dingtalk.com))
-	* A Real-time communicate webapp built by AngularJS. Deployed both in web and desktop wrapped by NodeWebkit.  
+	* A Real-time communicate webapp built by AngularJS. Deployed both in web and desktop wrapped by NodeWebkit. Using Bower to install the dependencies  
 	* Responsible for dev entertainment. Developed gulp task to build project. Using Karma for unit-testing to practise TDD.
 	* Developed Modules and Common Derectives. Working with PM resolved the performance issues involves Angular dirty check loop.
 	
@@ -168,9 +173,9 @@
 
 * `Com.js` [github repo](https://github.com/hlissnake/com.js) : A Virtual Display Object Library for html5 canvas basic graphic.
 
-* `Enhanced Javascript Library` [github repo](https://hlissnake.github.io/HL-JS-Library/)
+* `Enhanced Javascript Library` [github repo](https://hlissnake.github.io/HL-JS-Library/) A self-coding JS Library which enhances the native javascript, provides Dom manipulation and UI Components.
 
-* `Virtual Reaity`: recommend open it in mobile
+* `Virtual Reality`: recommend open it in mobile
     * [Stars Ocean](http://www.tmall.com/go/chn/common/tgp-startui.php)
     * [In Cockpit](http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=1)
     * [In Cockpit 2](http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=2)
