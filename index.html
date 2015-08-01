@@ -1,239 +1,383 @@
 <!DOCTYPE html>
-<html lang="en-us">
+<html>
   <head>
-    <meta charset="UTF-8">
-    <title>Resume by hlissnake</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <title>Resume by hlissnake</title>
   </head>
+
   <body>
-    <section class="page-header">
-      <h1 class="project-name">Resume</h1>
-      <h2 class="project-tagline">This is Jack Huang&#39;s CV, Thanks for reading</h2>
-      <a href="https://github.com/hlissnake/resume" class="btn">View on GitHub</a>
-      <a href="https://github.com/hlissnake/resume/zipball/master" class="btn">Download .zip</a>
-      <a href="https://github.com/hlissnake/resume/tarball/master" class="btn">Download .tar.gz</a>
-    </section>
+    <header>
+      <div class="inner">
+        <h1>Resume</h1>
+        <h2>This is Jack Huang&#39;s CV, Thanks for reading</h2>
+        <a href="https://github.com/hlissnake/resume" class="button"><small>View project on</small> GitHub</a>
+      </div>
+    </header>
 
-    <section class="main-content">
-      <h4>
-<a id="1-javascript-closure" class="anchor" href="#1-javascript-closure" aria-hidden="true"><span class="octicon octicon-link"></span></a>1. Javascript Closure</h4>
-
-<p>In general, Javascript Closure is a special context(or scope) for the variables being used by a lower scope in the chain scopes.</p>
+    <div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+          <h2>
+<a id="this-is-jack-huang" class="anchor" href="#this-is-jack-huang" aria-hidden="true"><span class="octicon octicon-link"></span></a>This is Jack Huang</h2>
 
 <ul>
-<li>For example: </li>
+<li>Working on software industry for 8 years, had roles varying from Java full-stack developer to Senior Front End Engineer. </li>
+<li>Being the senior engineer in the world's biggest e-commerce company for 4 years.</li>
+<li>New Zealand Working Permitted</li>
+<li>Email: <a href="hlislichking@gmail.com">hlislichking@gmail.com</a>
+</li>
+<li>Skype: <a href="hlislichking@gmail.com">hlislichking@gmail.com</a>
+</li>
 </ul>
 
-<pre><code>var moduelA = (function module(){
-    var property = 1;
-    return {
-        getProperty : function () {
-            return property;
-        }
-    };
-})();
-moduelA.getProperty() //equal 1
-</code></pre>
+<h1></h1>
 
-<p>This is the basic way to achieve the encapsulation in JS Modules, and also a great practical example for Closure. The <code>property</code> variable cannot be accessed outside function <code>module</code>. But it can be used in the internal function <code>getPorperty</code> which is a lower scope, so it will create a Closure scope for "property". By running <code>moduelA.getProperty()</code>, we can get the property's value.</p>
+<h2>
+<a id="summary" class="anchor" href="#summary" aria-hidden="true"><span class="octicon octicon-link"></span></a>Summary</h2>
 
 <ul>
-<li>Another example:</li>
-</ul>
-
-<pre><code>function ClassA() {
-    var me = this;
-    setTimeout(function(){
-        me.method();
-    }, 100);
-}
-ClassA.prototype.method = function(){
-    alert(5);
-};
-var obj = new ClassA() // alert(5) in 100ms later
-</code></pre>
-
-<p>In this case, we need to execute a prototype method inside a callback which will changed its "this" scope, such as "setTimeout" and "Event Listener". If you don't want to change it via "bind" api, A good choice is using Closure, to get the reference of the outside "this".</p>
-
-<p>Closure is not a silver bullet. Be careful about performance if closure is used too much. The variables being used in a Closure, will never be GC. It's better to set a variable to <code>Null</code> if there is no reference anymore.</p>
-
-<h4>
-<a id="2-differences-between-get-and-post" class="anchor" href="#2-differences-between-get-and-post" aria-hidden="true"><span class="octicon octicon-link"></span></a>2. Differences between Get and Post</h4>
+<li>As the core role for innovative technologies and projects in the team.</li>
+<li>Strong ability for building usable, responsive, elegant front-end solutions for SPAs.</li>
+<li>Proficient in OOP JavaScript and Java.</li>
+<li>Skilled on high-performance UI animation.</li>
+<li>Skilled on leading libs like Angular, React, Backbone, Extjs.</li>
+<li>Good understanding in algorithm of libs like React, Game Engine, Angular.</li>
+<li>Good understanding in CSS3/Canvas transform involving matrix 2d/3d algorithm.</li>
+<li>Participating in Open Source project.</li>
+<li>Skilled on Java web, with experience of J2EE libs like Struts, Spring. </li>
+<li>Familiar with AJAX, JSONP, Websocket, RESTful api.</li>
+<li>Experiences in ASP.NET, Oracle, MySql, Hibernate.</li>
+<li>My strengths:
 
 <ul>
-<li><p>In RESTful, GET method means retrieving data from a resource/server. POST method means submitting data to a resource/server.</p></li>
-<li><p>Query Data : All data in GET is sent in URL, and also have a length restriction. Query string in POST is sent in HTTP message body </p></li>
-<li><p>Data type : Only char type is allowed in GET URL. Any data type is allowed in POST such as Binary Data of files.</p></li>
-<li><p>Security : POST is safer than GET. Do not send any sensitive data like password by GET. Use POST in your AJAX or Form because your data is invisible in the URL, and will never be cached by the browser</p></li>
-</ul>
-
-<h4>
-<a id="3-doctype" class="anchor" href="#3-doctype" aria-hidden="true"><span class="octicon octicon-link"></span></a>3. DocType</h4>
-
-<ul>
-<li><p>DOCTYPE Declaration tells the browser what type of document the page is, and what version of HTML should render, in HTML5 or HTML4.0;</p></li>
-<li><p>In modern web pages, we usually use &lt;!DOCTYPE html&gt; to declare HTML5 as the default version of document, especially on mobile platform;</p></li>
-</ul>
-
-<h4>
-<a id="4-commonjs-and-amd" class="anchor" href="#4-commonjs-and-amd" aria-hidden="true"><span class="octicon octicon-link"></span></a>4. CommonJS and AMD</h4>
-
-<ul>
-<li>I would use CommonJS when the project:
-
-<ul>
-<li>Many modules with complex dependencies. It is reasonable to load dependencies in synchronous way;</li>
-<li>Using Webpack or Browserify to wrap and combine into minimal amount of files to improve network performance;</li>
-<li>Manage and install modules by NPM or Bower;</li>
-<li>Modules should be reusable in Node.js, rendering React in server as a particular example;</li>
-<li>Suitable for SPA wrapped into Cross-Platform by NodeWebkit or PhoneGap, or React-native App.</li>
+<li>Fast learning skill;</li>
+<li>Passion on new techniques;</li>
+<li>Ability to bring new ideas to the table;</li>
+<li>Determination of technologies choice;</li>
+<li>Great English communication Skills;</li>
 </ul>
 </li>
-<li>
-<p>I would use AMD when there are cases like:    </p>
+</ul>
+
+<h2>
+<a id="education" class="anchor" href="#education" aria-hidden="true"><span class="octicon octicon-link"></span></a>Education</h2>
 
 <ul>
-<li>Combining all modules is too much huge. Needs to Parallel load some later;</li>
-<li>Need to load styles or others libs asynchronously.</li>
-<li>Suitable for the heavy webapp. First loading time of the page is more important.</li>
+<li>Hebei University of Technology  from 2002 to 2006
+
+<ul>
+<li>Bachelor's degree of Sciences in Information and Computing Sciences. </li>
 </ul>
 </li>
-<li><p>In fact, CommonJS and AMD are both essential. A suitable strategy may be using them together. I'd write codes in CommonJS style, then use Webpack tool setting <code>libraryTarget:'umd'</code> in config to wrap modules in 'UMD' style. UMD is Universal Module Definition which is compatible both for CommonJS and AMD. The rest of thing is the matter of the project choice.</p></li>
 </ul>
 
-<h4>
-<a id="5-css-hack" class="anchor" href="#5-css-hack" aria-hidden="true"><span class="octicon octicon-link"></span></a>5. CSS Hack</h4>
-
-<p>CSS Attribute Hacks for IE browsers, using special characters:</p>
-
-<ul>
-<li>IE6 : _display: block</li>
-<li>IE7 : *display: block</li>
-<li>IE8 : display: block\0</li>
-</ul>
-
-<h4>
-<a id="6-benefit-of-js-templating" class="anchor" href="#6-benefit-of-js-templating" aria-hidden="true"><span class="octicon octicon-link"></span></a>6. Benefit of JS templating</h4>
-
-<p>Similar to the server-side templating like JSP and velocity, Javascript template is meaningful for Logic &amp; View Separation in SPA/MVC projects. </p>
-
-<p>It provides developers an elegant way to generate dynamic HTML by mixing Data and Template efficiently. It will also enhance the readability and maintainability of the code. Templates may be reusable for other modules and developers.</p>
-
-<p>Other benefit is the performance optimization. Rendering with templating and innerHTML will truely reduce the DOM manipulations, instead of executing DOM api one by one to update the data.</p>
-
-<p>AngularJS, React frameworks with advanced templating algorithm are doing better in
-rendering optimization, but something are different. In React, avoid re-rendering the whole html once, minimal manipulations is the key theme. It will collect all dom mutations via Virtual DOM Diff, then submit them to the browser using batching in one time.</p>
-
-<h4>
-<a id="7-build-a-slideshow" class="anchor" href="#7-build-a-slideshow" aria-hidden="true"><span class="octicon octicon-link"></span></a>7. Build a Slideshow</h4>
-
-<p>Solutions to build a Slideshow Component:</p>
+<h2>
+<a id="expertise" class="anchor" href="#expertise" aria-hidden="true"><span class="octicon octicon-link"></span></a>Expertise</h2>
 
 <ul>
 <li>
-<h5>
-<a id="jssor-slider-wwwjssorcom-" class="anchor" href="#jssor-slider-wwwjssorcom-" aria-hidden="true"><span class="octicon octicon-link"></span></a>Jssor Slider <a href="http://www.jssor.com/">www.jssor.com</a> :</h5>
-
-<p>The first solution always comes to jQuery Plugins. This Open-Source libs is functional and can provide multiple effects.</p>
+<h4>
+<a id="front-end" class="anchor" href="#front-end" aria-hidden="true"><span class="octicon octicon-link"></span></a>Front End</h4>
 
 <ul>
-<li>Pros : 
-
-<ul>
-<li>Cross-Browser;</li>
-<li>Easy and efficient for building a simple slider;</li>
-</ul>
-</li>
-<li>Cons : 
-
-<ul>
-<li>Hard to customize your own effects;</li>
-<li>Low animation performance, especially on mobile web;</li>
-</ul>
-</li>
+<li>Javascript,</li>
+<li>HTML5,</li>
+<li>CSS3,</li>
+<li>React.js,</li>
+<li>AngularJS,</li>
+<li>Backbone.js,</li>
+<li>Extjs,</li>
+<li>Web Game,</li>
+<li>Canvas</li>
+<li>Mobile Hybrid,</li>
+<li>Node.js,</li>
+<li>Jquery/Zepto,</li>
+<li>SASS/LESS</li>
 </ul>
 </li>
 <li>
-<h5>
-<a id="pure-css3-slider-cssslidercom-" class="anchor" href="#pure-css3-slider-cssslidercom-" aria-hidden="true"><span class="octicon octicon-link"></span></a>Pure CSS3 Slider <a href="http://cssslider.com/">cssslider.com</a> :</h5>
+<h4>
+<a id="dev" class="anchor" href="#dev" aria-hidden="true"><span class="octicon octicon-link"></span></a>Dev</h4>
 
 <ul>
-<li><p>Pros : It is an elegant and innovative solution to achieve Slideshow. Using pure CSS3 to achieve high performance transition animation. It's perfect and amazing!</p></li>
-<li><p>Cons : It is not a framework but a tool for designer, and not free.</p></li>
+<li>Git,</li>
+<li>Grunt/Gulp,<br>
+</li>
+<li>Webpack/browserify,</li>
+<li>NPM,<br>
+</li>
+<li>Yeoman,</li>
+<li>Design Pattern,</li>
+<li>Testing/TDD</li>
 </ul>
 </li>
 <li>
-<h5>
-<a id="iscroll-iscrolljscom" class="anchor" href="#iscroll-iscrolljscom" aria-hidden="true"><span class="octicon octicon-link"></span></a>iScroll <a href="http://iscrolljs.com/#snap">iscrolljs.com</a>:</h5>
-
-<p>When it comes to mobile web, I really recommend using iScroll. Thus iScroll mainly focus on high performance, smooth scroll effect, we can still use <a href="http://iscrolljs.com/#snap">Snap</a> to achieve simple Slideshow effect;</p>
+<h4>
+<a id="back-end" class="anchor" href="#back-end" aria-hidden="true"><span class="octicon octicon-link"></span></a>Back End</h4>
 
 <ul>
-<li>Pros:
-
-<ul>
-<li>Extremely High performance;</li>
-<li>Cross-Browser, and Mobile first;</li>
-<li>Dependency free, can be used in anywhere;</li>
-</ul>
-</li>
-<li>Cons:
-
-<ul>
-<li>Developers need to develop <code>auto-slide</code> and <code>navigator</code> features by using iScroll internal api.</li>
-<li>High requirement for developers' skills to customize;</li>
+<li>Java/J2EE,</li>
+<li>Struts,</li>
+<li>Spring MVC,</li>
+<li>WebServer: Apache, Node-express</li>
+<li>SQL,</li>
+<li>.NET</li>
 </ul>
 </li>
 </ul>
+
+<h2>
+<a id="experiences" class="anchor" href="#experiences" aria-hidden="true"><span class="octicon octicon-link"></span></a>Experiences</h2>
+
+<ul>
+<li>
+<h4>
+<a id="senior-front-end-engineer" class="anchor" href="#senior-front-end-engineer" aria-hidden="true"><span class="octicon octicon-link"></span></a>Senior Front-end Engineer</h4>
+
+<p><code>Alibaba Group</code> : Alibaba is the world’s biggest online commerce company, having hundreds of millions of users. Transactions on its online sites totaled $248 billion last year</p>
+
+<p>from 2011-7 to Current</p>
+
+<ul>
+<li>Worked in several leading product departments, being responsible for front end development, like Mobile hybrid, HTML5, Webapp.</li>
+<li>As a major role in innovative projects enhanced the interaction of the e-commerce, like Games, Virtual Reality, Real-time app.</li>
+<li>Responsible for performance optimization, new techniques researching and recommendation as the core role. </li>
+<li>Produced the MVC Components Solution for internal projects.</li>
+<li>Participated in architecture design and product design.</li>
+</ul>
 </li>
+<li>
+<h4>
+<a id="java-web-engineer" class="anchor" href="#java-web-engineer" aria-hidden="true"><span class="octicon octicon-link"></span></a>Java Web Engineer</h4>
+
+<p><code>Longtop Grouop</code></p>
+
+<p>from 2009-9 to 2011-7 </p>
+
+<ul>
+<li>Responsible for Web full-stack development. Frontend, Java, sql, java application for the financial system of bank. </li>
+<li>As the Javascript/UI Expert in the project, especially in Extjs component extensions.</li>
+</ul>
+</li>
+<li>
+<h4>
+<a id="java-web-developer" class="anchor" href="#java-web-developer" aria-hidden="true"><span class="octicon octicon-link"></span></a>Java Web Developer</h4>
+
+<p><code>Japan MCS</code></p>
+
+<p>from 2006-11 to 2009-8</p>
+
+<ul>
+<li>Responsible for java web development and testing. involved structs, spring, hibernate. Participated variety J2EE projects that played an important role in Japan.</li>
+<li>Had worked in Japan as a support developer in local project team, due to my excellent performance in my team.</li>
+</ul>
+</li>
+</ul>
+
+<h2>
+<a id="projects" class="anchor" href="#projects" aria-hidden="true"><span class="octicon octicon-link"></span></a>Projects</h2>
+
+<ul>
 <li>
 <h5>
-<a id="build-your-own-slideshow" class="anchor" href="#build-your-own-slideshow" aria-hidden="true"><span class="octicon octicon-link"></span></a>Build your own Slideshow:</h5>
-
-<p>If the open-source frameworks didn't match your requirements, why not develop it by your own? As a front-end engineer, it's amazing to create your own UI component and animation effects;</p>
-
-<p>This is my example of a SliderView developed in React <a href="https://github.com/hlissnake/react-app/blob/master/web/src/common/slideView.js">(SlideView in React)</a>. In my opinion, it is essential to have an elegant basic component system/frameworks, to make creating stable and maintainable component more easier. I am using React here.</p>
+<a id="hilo-game-engine" class="anchor" href="#hilo-game-engine" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hilo Game Engine</h5>
 
 <ul>
-<li>My Demo of SlideView in React (mobile first, hardware accelerated CSS3, reusable)
-<img src="http://gtms04.alicdn.com/tps/i4/TB12tCgIVXXXXclXXXXZ6GBKFXX-150-150.png" alt="my demo">
+<li>A Cross-end HTML5 Game development solution, could help developers build web games conveniently in minutes.</li>
+<li>Participated as a team memebar of team in features design. Responsible for npm, modules wrap, testing, plugins, and game tools.</li>
+<li>Still on the open-source process to eventually release on Github. <a href="https://github.com/hiloteam/">https://github.com/hiloteam/</a>
 </li>
 </ul>
 </li>
 <li>
 <h5>
-<a id="java-backend-gwt" class="anchor" href="#java-backend-gwt" aria-hidden="true"><span class="octicon octicon-link"></span></a>Java Backend GWT:</h5>
-
-<p>Google Web Toolkit is a new generation tool for web development. Despite I am not familiar with GWT, and be concern about if it's able to achieve reliable animation effects, I still believe this could be a good solution for Java developers;</p>
+<a id="dingtalk-im-webapp-online-url" class="anchor" href="#dingtalk-im-webapp-online-url" aria-hidden="true"><span class="octicon octicon-link"></span></a>DingTalk IM Webapp (<a href="https://im.dingtalk.com">Online URL</a>)</h5>
 
 <ul>
-<li>Pros : for java developer there is no need to learn Javascript and HTML DOM;</li>
-<li>Cons : high complexity in compiled Javascript. Maybe there're some problems in UI performance. Hard to figure out potential Javascript issues in your App;</li>
+<li>A Real-time communicate webapp built by AngularJS. Deployed both in web and desktop wrapped by NodeWebkit. Using Bower to install the dependencies<br>
+</li>
+<li>Responsible for dev entertainment. Developed gulp task to build project. Using Karma for unit-testing to practise TDD.</li>
+<li>Developed Modules and Common Derectives. Working with PM resolved the performance issues involves Angular dirty check loop.</li>
 </ul>
 </li>
 <li>
 <h5>
-<a id="in-conclusion" class="anchor" href="#in-conclusion" aria-hidden="true"><span class="octicon octicon-link"></span></a>In conclusion</h5>
+<a id="react-project" class="anchor" href="#react-project" aria-hidden="true"><span class="octicon octicon-link"></span></a>React Project</h5>
 
-<p>In mobile web, Absolutely I recommend using iScroll as your Slideshow. jQuery plugin is also a good idea in you desktop browser pages. It works well with your other framework like AngularJS.</p>
+<ul>
+<li>Responsible for the practice and researching of React for my team.</li>
+<li>Be familiar with the Virtual Dom Diff Algorithm. Have practical knowledge about React animation and performance.</li>
+<li>Be undertaking an ongoing React/React-native project currently. Using ES6, Npm, CommonJS, Webpack for project development.</li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="hybrid-webapps-in-tmallapp" class="anchor" href="#hybrid-webapps-in-tmallapp" aria-hidden="true"><span class="octicon octicon-link"></span></a>hybrid Webapps in TmallApp</h5>
 
-<p>Coding component is not difficult. So if it's under a React project, I recommend developing your own Slideshow. It's possible to transfer those components to React-native apps in the future.</p>
+<ul>
+<li>
+<code>Car Race Game</code>: 
+
+<ul>
+<li>A Race Game developed by Hilo Engine. as the core developer working with teammates well.</li>
+<li>Developed in high secure javascript to prevent cheating in game. My team produced policies to detect the javascript hacking and illegal actions.</li>
+<li>Responsible for the Car Drift Physical Simulation, and participated in front-end security solution.</li>
+</ul>
+</li>
+<li>
+<code>Real-time Gambling game</code>: 
+
+<ul>
+<li>A successful game allow users to compete in TmallApp by betting scores, last for several months in high PV/UV.</li>
+<li>A SPA Webapp developed by heart-beat connection and self-developed Hash router, which achieve a views lifecycle similar to Mobile native.</li>
+<li>Using <code>'Finite State Machine'</code> algorithm to manage the app states.</li>
+<li>Using <code>'Pseudo-3d'</code> to enhanced the animation effects.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="virtual-reality-webapps" class="anchor" href="#virtual-reality-webapps" aria-hidden="true"><span class="octicon octicon-link"></span></a>Virtual Reality webapps</h5>
+
+<ul>
+<li>The innovative project to enhanced e-business interaction. Deployed in TmallApp hybrid.</li>
+<li>Using mobile orientation api to detect device's rotation and motion. By calculating multiple matrixs to achieve VR experience on mobile web.</li>
+<li>Support multiple render models: Canvas2d, CSS3, WebGL. Developed as the Pseudo-3d effect in canvas2d context, </li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="gcanvas---enhanced-canvas-api-in-webview" class="anchor" href="#gcanvas---enhanced-canvas-api-in-webview" aria-hidden="true"><span class="octicon octicon-link"></span></a>GCanvas - Enhanced Canvas API in Webview</h5>
+
+<ul>
+<li>Participated in a webview enhanced plugin for Android platform. it can improve the canvas2d and WebGL performance in Android webview significantly.</li>
+<li>Responsible for plugin's api design, and testing canvas api in practical games</li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="games-in-laiwang-app" class="anchor" href="#games-in-laiwang-app" aria-hidden="true"><span class="octicon octicon-link"></span></a>Games in Laiwang App</h5>
+
+<ul>
+<li>Web Games published inside Laiwang App. Developed by "Phaser" game engine and my <a href="https://github.com/hlissnake/com.js">Com.js</a> canvas library. Deployed on hybrid environment.</li>
+<li><a href="h5.m.taobao.com/laiwang/game/tofu/index.html">Jumping Tofu</a></li>
+<li><a href="h5.m.taobao.com/laiwang/game/jump/index.html">Jumping Ball</a></li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="hybrid-js-framework-in-laiwangapp" class="anchor" href="#hybrid-js-framework-in-laiwangapp" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hybrid JS framework in LaiwangApp</h5>
+
+<ul>
+<li>Designed and developed the entire js-bridge library for Laiwang App, both on iOS and Android;</li>
+<li>Designed and tested hybrid native apis to enhance the webview functionality.</li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="laiwang-public-account-backend-system" class="anchor" href="#laiwang-public-account-backend-system" aria-hidden="true"><span class="octicon octicon-link"></span></a>Laiwang Public Account Backend System</h5>
+
+<ul>
+<li>Backend Operation System for Laiwang public account management. </li>
+<li>Responsible for developing new features using Backbone.js. Such as Tree-menu component. Using TmodJS which is a pre-compiled Template lib, to render the html tpl efficiently.</li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="taobao-quality-center-system-2013" class="anchor" href="#taobao-quality-center-system-2013" aria-hidden="true"><span class="octicon octicon-link"></span></a>Taobao Quality Center System (2013)</h5>
+
+<ul>
+<li>Responsible for front-end development and designing of the front-end architecture for the project.</li>
+<li>Designed a particular UI Component to show qualities certification, based on OOP design, UI lifecycle, Event delegation, and JS Template.</li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="taobao-operation-platform-2012" class="anchor" href="#taobao-operation-platform-2012" aria-hidden="true"><span class="octicon octicon-link"></span></a>Taobao Operation Platform (2012)</h5>
+
+<ul>
+<li>Be in charge of project management, and front-end architecture design. Also responsible for core module development.</li>
+<li>Produced a Internal UI Component Library called "OCP", focus on backend system, such as: "Grid", "Tree", "Forest(multiple trees)", etc.</li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="agricultural-bank-of-china-cms3-2011" class="anchor" href="#agricultural-bank-of-china-cms3-2011" aria-hidden="true"><span class="octicon octicon-link"></span></a>Agricultural Bank of China, CMS3 (2011)</h5>
+
+<ul>
+<li>Credit Management System developed by Java web. </li>
+<li>Responsible for Javascript, Java, SQL, Unit testing, using Extjs for the RIA development.</li>
+<li>get the opportunity of promoting myself to front end career path.</li>
+</ul>
+</li>
+<li>
+<h5>
+<a id="japan-edinet-2008" class="anchor" href="#japan-edinet-2008" aria-hidden="true"><span class="octicon octicon-link"></span></a>Japan EDINET (2008)</h5>
+
+<ul>
+<li>Working in Japan for Japan Financial EDINET system. Responsible for java development and unit testing, Using JSP, Java and SQL. </li>
+<li>Implemented functionalities like: Jsp Grid Paging, Data List Sorting, etc.</li>
+</ul>
 </li>
 </ul>
 
-      <footer class="site-footer">
-        <span class="site-footer-owner"><a href="https://github.com/hlissnake/resume">Resume</a> is maintained by <a href="https://github.com/hlissnake">hlissnake</a>.</span>
+<h2>
+<a id="portfolio" class="anchor" href="#portfolio" aria-hidden="true"><span class="octicon octicon-link"></span></a>Portfolio</h2>
 
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
-      </footer>
+<ul>
+<li><p><code>Github</code>: <a href="https://github.com/hlissnake">https://github.com/hlissnake</a></p></li>
+<li><p><code>Com.js</code> <a href="https://github.com/hlissnake/com.js">github repo</a> : A Virtual Display Object Library for html5 canvas basic graphic.</p></li>
+<li><p><code>Enhanced Javascript Library</code> <a href="https://hlissnake.github.io/HL-JS-Library/">github repo</a> A self-coding JS Library which enhances the native javascript, provides Dom manipulation and UI Components.</p></li>
+<li>
+<p><code>Virtual Reality</code>: recommend open it in mobile</p>
 
-    </section>
+<ul>
+<li><a href="http://www.tmall.com/go/chn/common/tgp-startui.php">Stars Ocean</a></li>
+<li><a href="http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=1">In Cockpit</a></li>
+<li><a href="http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=2">In Cockpit 2</a></li>
+<li><a href="http://hlissnake.github.io/vr/demo/webgl.html">Cockpit WebGL</a></li>
+</ul>
+</li>
+<li>
+<p><code>Real-time Gambling Webapp</code>: Depending on hybrid network, cannot run on web.</p>
+
+<ul>
+<li><a href="http://hlissnake.github.io/image/hitpoint.gif">screenshots</a></li>
+<li><a href="http://hlissnake.github.io/image/hitpoint2.gif">screenshots2</a></li>
+</ul>
+</li>
+</ul>
+        </section>
+
+        <aside id="sidebar">
+          <a href="https://github.com/hlissnake/resume/zipball/master" class="button">
+            <small>Download</small>
+            .zip file
+          </a>
+          <a href="https://github.com/hlissnake/resume/tarball/master" class="button">
+            <small>Download</small>
+            .tar.gz file
+          </a>
+
+          <p class="repo-owner"><a href="https://github.com/hlissnake/resume"></a> is maintained by <a href="https://github.com/hlissnake">hlissnake</a>.</p>
+
+          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
+        </aside>
+      </div>
+    </div>
 
   
   </body>
 </html>
-
