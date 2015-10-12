@@ -1,89 +1,59 @@
-## This is Jack Huang
+## Jack Huang
 
-* Working on commercial web industry for 8 years, had roles varying from Java full-stack developer to Senior Front End Engineer. 
-* Current working in the largest e-commerce company in china as well as entire world.
-* New Zealand Working Permitted
-* Email: [hlislichking@gmail.com](hlislichking@gmail.com)
-* Skype: [hlislichking@gmail.com](hlislichking@gmail.com)
+* Web front end engineer and full-stack developer.
+* Located in Auckland and with New Zealand Working Permit.
+* My Email: [hlislichking@gmail.com](hlislichking@gmail.com)
+* My Phone: [0273918293](0273918293)
 
 =====
 
 
 ## Summary
 
-* Strong ability for building usable, responsive, elegant front-end solutions for SPAs.
-* Skilled in OOP JavaScript and Java.
-* Skilled on high-performance UI animation involving CSS3/Canvas.
-* Skilled on leading libs like Angular, React, Backbone, Extjs.
-* Participating in Open Source HTML5 Game project.
-* Skilled on Java web, with experience of J2EE libs like Struts, Spring. 
-* Familiar with AJAX, JSONP, Websocket, RESTful api.
-* Experiences in ASP.NET, Oracle, MySql, Hibernate.
+* 8 years in commercial internet industry. Original I worked as a Java full-stack developer, then put myself into the Front End development as I believed web application will be the next feature;
+
+* Expertise in JavaScript, HTML5, CSS3, W3C features and animation involving CSS3/Canvas;
+
+* Skilled in Mobile Web technologies involving responsive design, device gesture system, performance optimization, hybrid api to enhance JavaScript;
+
+* Practical experience with the leading MVX libs as React+Flux, AngularJS, Backbone.js, Extjs. to build scalable and usable components solutions;
+
+* Great passion on web development, involving SPAs, UI Components, WebGames, Mobile Hybrid. I love creating personal libraries as a hobbit. Participating in open-source game engine developing;
+
+* Agile development fans and willing to practise TDD/BDD in projects;
+
+* Skilled in Back-end development years ago, experiences with Java web and ASP.NET, SQL, Oracle, HBase DB;
+
 * My strengths:
-	* Fast learning skill;
-	* Passion on new techniques;
-	* Ability to bring up new ideas;
-	* Determination of technologies choice;
-	* Great English communication Skills;
-	
-## Education
-* China Hebei University of Technology  from 2002 to 2006
-	* Bachelor's degree of Sciences in Information and Computing Sciences. 
-
-## Expertise
-* #### Front End
-	* Javascript,
-	* HTML5,
-	* CSS3,
-	* React / Flux,
-	* AngularJS,
-	* Backbone.js,
-	* Extjs,
-	* Web Game/Canvas
-	* Mobile Hybrid,
-	* Node.js,
-	* Jquery/Zepto,
-	* SASS/LESS
-
-* #### Dev
-	* Git,
-	* Grunt/Gulp,		
-	* Webpack/browserify,
-	* NPM,	
-	* Yeoman,
-	* Testing/Agile
-	
-* #### Back End
-	* Java/J2EE,
-	* Struts,
-	* Spring MVC,
-	* SQL,
-	* .NET
-	
+	* Fast learning skill on new techniques and trends;
+	* Great mentorship to junior/new, Willing to share experiences;
+	* Ability to bring up innovative ideas to products;
 
 ## Experiences
 
-* #### Senior Front-end Engineer 
+* #### Senior Front-end Developer 
   
-  `Alibaba Group` : Alibaba is the world’s biggest online commerce company, having hundreds of millions of users. Transactions on its online sites totaled $248 billion last year
+  `Alibaba Group` : Alibaba is the world’s biggest online commerce company, having hundreds of millions of users all over the world.
   
-  from 2011-7 to Current
+  from 2011-7 to 2015-9
 
-	* Worked in several leading product departments, being responsible for front end development, like Mobile hybrid, HTML5, WebApp.
-	* As a major role in innovative projects enhanced the interaction of the e-commerce, like Games, Virtual Reality, Real-time app.
-	* Participated in architecture design and product design.
-	* Responsible for performance optimization, new techniques researching and recommendation as the core role. 
-	* Took charge in the MVC Components Solution for internal projects.
+	* Worked in several leading departments, responsible in multiple forefront area like CMS, Workflow, WebApp, Mobile, HTML5, Nodejs. Being the core role of front end development and be a greate player in agile project proccess.
 	
-* #### Java Web Engineer
+	* Experiences with Frontend MVC Components Solution for internal projects, based on Alibaba internal library or React.js.
+	
+	* Participating internal javascript frameworks and made contributions on extra componenets. We were required to not only be familir with the frameworks, but also need to create personal solutions even build new libraries or tools.
+	
+	* Take part in "All in mobile internet" of Alibaba's mobile marketing evolution. As a major role in innovative projects of my last team, to enhance the interaction of the e-commerce, bring the new idea to the table, like WebGame, Virtual Reality, High Secured Web Solution. Be a part of internal open-source game engine development.
+	
+* #### Java Full Stack Engineer
 
   `Longtop Grouop`
   
   from 2009-9 to 2011-7 
   
-	* Responsible for Web full-stack development. Using Java, sql for the financial system of bank 
-	* Responsible for front end models, Extjs based web app development. 
-	* As the Javascript/UI Expert in the project, especially in Extjs component extensions.
+	* Responsible for Web full-stack development of the financial banking system. Using Struts, Spring, HBase DB to build the server side system;
+	* Worked with team built a back-end UI library to make others java developer using Extjs components easily;
+	* First time to learn Extjs framework, then quickly became the javascript/UI Expert in the project. Help teammates to archive complex front end interactions, especially in Extjs component extensions;
 
 * #### Java Web Developer
 
@@ -91,78 +61,107 @@
   
   from 2006-11 to 2009-8
   
-    * Responsible for java web development and testing. involved structs, spring, hibernate. Participated variety J2EE projects that played an important role in Japan.
-	* Had worked in Japan as a support developer in local project team, due to my excellent performance in my team.
+    * Responsible for java web development and testing, involved Structs mvc, Spring, Hibernate, Oracle DB. Participated variety of J2EE projects in Japan financial industry.
+	* Responsible for web page javascript validation, basic front end models. Used AJAX to enhance the web page interactions.
+	* Participated in ASP.NET project and build dynamic web app.
 
+## Expertise
+
+* #### Front End
+	* Javascript, ES6
+	* HTML5, CSS3, Animation
+	* React.js, Flux,
+	* AngularJS,
+	* Extjs,
+	* Backbone.js,
+	* Web Game, Canvas
+	* Mobile Web, Hybrid,
+	* Node.js,
+	* Jasmine, Mocha, Selenium,
+	* jQuery, [Alibaba Kissy](https://github.com/kissyteam/), Bootstrap,
+	* SASS, LESS
+	* RESTful, AJAX, Websocket
+
+* #### Dev
+	* Git, SVN,
+	* Grunt, Gulp,		
+	* Webpack, Browserify, Babel,
+	* NPM,	Yeoman,
+	* Unit Testing, Agile,
+	* Ant, Maven
+	
+* #### Back End
+	* Java, J2EE,
+	* Struts2, Spring MVC,
+	* SQL, Oracle, Hibernate,
+	* ASP.NET, C#
+	
+## Education
+
+* China Hebei University of Technology  from 2002 to 2006
+	* Bachelor's degree of Sciences in Information and Computing Sciences. 
 
 ## Projects
 	 
-* #### IM Communication Webapp for Alibaba Group ([Online URL](https://im.dingtalk.com))
-	* A Real-time communicate webapp built by AngularJS. Deployed both in web and desktop wrapped by NodeWebkit. Using Bower to install the dependencies.
-	
-	* Responsible for dev entertainment. Developed gulp task to build project. Using Karma for unit-testing to practise TDD.
-	
-	* Developed Modules and Common Derectives. Working with PM resolved the performance issues involves Angular dirty check loop.
-	
-* #### React Solutions for new projects
-    * Responsible for the practice and researching of React UI library and Flux architecture for my team.
-    
-    * Developing the React UI Component Library for team, including Tree, SlideView, TableGrid, in a high-performance, reusable way.
-    
-    * Be familiar with the Virtual Dom Diff Algorithm. Have practical knowledge about React animation and performance improvement.
-    
-    * Be undertaking an ongoing restructing project currently. Using React.js, NPM, CommonJS, Webpack for development.
-    
-* #### Hybrid Webapps for China's best e-commercial App
-	* Took charge in several innovative webapps for alibaba. Those projects included complex techniques and creative product design. The manager recongized me for leading the teammates to overcome the challenge and figuring out soluations.
-    * ##### Car Race Game: 
-        * A Race Game developed by Hilo Engine. as the core developer working with teammates well.
-    	* Developed in high secure javascript to prevent cheating in game. My team produced policies to detect the javascript hacking and illegal actions.
-    	* Responsible for the Car Drift Physical Simulation, and participated in front-end security solution.
-	* ##### Online gambling with people: 
-	    * A successful game allow users to compete in TmallApp by betting scores, last for several months in high PV/UV.
-		* A SPA Webapp developed by heart-beat connection and self-developed Hash router, which achieve a views lifecycle similar to Mobile native.
-		* Using `'Finite State Machine'` algorithm to manage the app states.
-		* Using `'Pseudo-3d'` to enhanced the animation effects.
-	
-	* ##### Virtual Reality in Mobile Web
-    	* The innovative project to enhanced e-business interaction. Deployed in TmallApp hybrid.
-    	* Using mobile orientation api to detect device's rotation and motion. By calculating multiple matrixs to achieve VR experience on mobile web.
-    	* Support multiple render models: Canvas2d, CSS3, WebGL. Developed as the Pseudo-3d effect in canvas2d context.
+* #### Alibaba DingTalk webapp ([Web URL](https://im.dingtalk.com))
+	* A real-time chat web SAP developed by AngularJS. Using Bower/NPM, Browserify for building and latest Websocket features.
 
-* #### HTML5 Games development and framework design
+	* Responsible for front end development, architecture, gulp building task, app framework design. Using Karma+Jasmine for unit-testing.
 	
-	* Focusing on HTML5 Games in current department, which can enhanced interaction of Alibaba online business significantly. I took charge of several important and innovative projects involving this as a major role.
+	* Working with team to resolve performance issues leaded by AngularJS dirty check loop.
 	
-	* ##### Hilo Game Engine [https://github.com/hiloteam/](https://github.com/hiloteam/) 
-    	* A Cross-end HTML5 Game development solution, could help developers build web games conveniently in minutes.
-		* Still on the open-source process to eventually release on Github. 
-		* Participated as a mainly memebar of the team, Responsible for api design, npm maintaining, modules support, testing, plugins, and relevant tools.
-	* ##### Com.js [github repo](https://github.com/hlissnake/com.js) : 
-		* A Virtual Display Object Library designed by myself, focusing on html5 canvas basic graphic. Including basic game development api.
-		* Implemented a Vistual Event System similar to DOM Event Model. by using `binary tree recursion algorithm`
-		* Be designed similar to other frameworks' api like Createjs, Phaser.
-	* ##### Games in Hybrid App
-		* Web Games published in Hybrid web. I lead the team to start game development by using "Phaser" engine as the mentor firstly. Then I developed my own Canvas Library and use it in next game. 
-		* Using Hilo engine to develop several creative game app, following in my portfolio
-		* [Jumping Tofu](http://h5.m.taobao.com/laiwang/game/tofu/index.html)
-    	* [Jumping Ball](http://h5.m.taobao.com/laiwang/game/jump/index.html)
+* #### Alibaba Seller Lottery System
+    * Responsible for React UI library and Flux architecture. Developed component pattern for team, including Tree, SlideView, TableGrid, in a high-performance, reusable way ([Github Demo](https://github.com/hlissnake/react-ui)).
+    
+    * Be familiar with the React's Virtual Dom Diff Algorithm. Have practical knowledge about React performance optimization.
+    
+    * Be undertaking an ongoing restructing project currently. Using React.js, Npm, CommonJS, Babel+ES6, Webpack for single-page web application.
 
-* #### Mobile Hybrid Web solutions in multiple Apps
+    
+* #### Mobile Hybrid WebApps
+	* Took charge in several innovative webapps built in Alibaba Apps. The manager recongized me push team to overcome the challenge and figuring out soluations.
+	
+	* ##### High secure online car race: 
+		* Responsible for high secure javascript to prevent cheating in game. Work with team to develop solutions to detect the javascript hacking and illegal actions.
+    	* Responsible for the Car Drift Physical Simulation, and front end architecture design.
+	* ##### Online gambling (Demos in portfolio below): 
+	    * A successful game allow users to compete by betting, last for several months in high PV/UV.
+		* Responsible for SPA designed, HTML5, CSS3 features and 'Finite State Machine' algorithm to manage the states and lifecycle.
+		* Used significant CSS3 3d transform to enhanced the animation effects.
+	
+	* ##### Virtual Reality in Web
+    	* A innovative project enhanced car e-business and exhibition online.
+    	* Used mobile gravity sensor api to detect device's orientation, wrote pure javascript without any other library support, to achieve device gestures and VR component.
+    	* Multiple render supported: Canvas2d, CSS3, WebGL.
+
+* #### Mobile hybrid javascript api
 
 	* GCanvas - Enhanced Canvas API in Webview
     	* Participated in a webview enhanced plugin for Android platform. it can improve the canvas2d and WebGL performance in Android webview significantly.
-    	* Responsible for plugin's api design, and testing canvas api in practical games
-    * Hybrid Javascript framework
-    	* Designed and developed the entire js-bridge library for Laiwang App, both on iOS and Android;
-    	* Designed and tested hybrid native apis to enhance the webview functionality.
+    	* Responsible for framework api design, and testing canvas api in practical projects.
+	* Hybrid JavaScript framework
+    	* Participated in designing and development of the js-bridge library for Alibaba Native Apps, both on iOS and Android webview;
+    	* Consume hybrid apis to enhance the webview interactions in practical projects.
    
-* #### Operation Platform for China's Best e-commercial company (2012)
-    * Be in charge of project management, and front-end architecture design. Also responsible for core module development.
-    * Produced a Internal UI Component Library called "OCP", focus on backend system, such as: "Grid", "Tree", "Forest(multiple trees)", etc.
-	* Responsible for front-end development and designing of the front-end architecture for the project.
-	* Designed a particular UI Component to show qualities certification, based on OOP design, UI lifecycle, Event delegation, and JS Template.
+* #### Operation Platform for Alibaba staff
+	* Be in charge of project management, front-end architecture design and javascript module development.
+	* Responsible for internal UI Library called "OCP" which mainly focus on backend developer. Based on Bootstrap CSS, OOP design, UI lifecycle, Event delegation, and JS Template. Such as: "Form Inputs", "Grid", "Tree", "Forest(multiple trees)", etc.
 
+* #### Loan Workflow System of Banking
+	* Financial and Loan system for Agriculture Bacnk of China. Used Extjs framework for rich interaction front end development.
+	* Responsible for components library development, to help java backend developer use Extjs easily. Worked with teammates used JSP customize tag to wrap javascript code in server page. We got this idea from ASP.NET server page component design;
+	* Great knowledge on Extjs OOP design pattern, Developed Extjs components' extensions for customize features [Blog: How to implement Extjs extension(will be translated in English later)](http://www.cnblogs.com/hlissnake/archive/2011/05/02/2034699.html);
+
+* #### HTML5 Game develop and framework design
+	
+	* Focusing on HTML5 Games in my last team, which can enhanced interaction of Alibaba online business significantly. I took charge of several important and innovative projects as a major role, also take game developing as a hobbit.
+	
+	* ##### Hilo Game Engine [https://github.com/hiloteam/](https://github.com/hiloteam/) 
+    	* A Cross-end HTML5 Game development solution, could help developers build web games conveniently in minutes.
+		* Participated as a main memebar in the team, Responsible for api design, npm maintaining, modules support, testing, plugins, and relevant tools.
+	* ##### Games in Hybrid App
+		* Web Games deployed in Alibaba Hybrid App. I pushed the team to start game development by using "Phaser" engine. Then I developed my own Canvas Library "Com.js" and use it in next game. 
+		* Used Hilo engine to develop several creative web game, following in my portfolio
 
 ## Portfolio
 
@@ -172,16 +171,21 @@
 
 * `Enhanced Javascript Library` [github repo](https://hlissnake.github.io/HL-JS-Library/) A self-coding JS Library which enhances the native javascript, provides Dom manipulation and UI Components.
 
+* `HTML5 Games`: Game developing is a skill for coder, and I take it as a passionate hobbit.
+	* [Pseudo 3d game based on 2d Cavnas](http://hlissnake.github.io/pseudo3d/car/) 
+	* [Jumping Tofu](http://h5.m.taobao.com/laiwang/game/tofu/index.html)
+   	* [Jumping Ball](http://h5.m.taobao.com/laiwang/game/jump/index.html)
+
 * `Virtual Reality`: recommend open it in mobile
     * [Stars Ocean](http://www.tmall.com/go/chn/common/tgp-startui.php)
-    * [In Cockpit](http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=1)
-    * [In Cockpit 2](http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=2)
+    * [Inside Cockpit](http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=1)
     * [Cockpit WebGL](http://hlissnake.github.io/vr/demo/webgl.html)
  
-* `Real-time Gambling Webapp`: Depending on hybrid network, cannot run on web.
-	* [screenshots](http://hlissnake.github.io/image/hitpoint.gif)
-	* [screenshots2](http://hlissnake.github.io/image/hitpoint2.gif)
+* `Real-time Gambling Webapp`: Depending on hybrid network, cannot run on web lonely.
+	* [screenshots gif](http://hlissnake.github.io/image/hitpoint.gif)
+	* [screenshots2 gif](http://hlissnake.github.io/image/hitpoint2.gif)
 
 * React UI Demos:
     * [Tree Component](http://hlissnake.github.io/react-ui/demo/tree/)
     * [SlideShow](http://hlissnake.github.io/react-ui/demo/slide/)
+    * (GridTable: still in proccess)
