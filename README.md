@@ -1,7 +1,7 @@
 
 ## Summary
 
-* As a 9 years agile geek in web engineering, with experience in Java full-stack and the JavaScript stack development;.* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture;* Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;* Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Jenkins, TeamCity, Docker;* Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;* Great English writing and speaking skills. Not only working as a dev coder, but also be a good team player in production and user experience design.
+* As a 9 years agile developer in web engineering, with experience in Java full-stack and the JavaScript stack development;.* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Angular rendering theory;* Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;* Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Jenkins, TeamCity, Docker;* Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;* Great English writing and speaking skills. Not only working as a dev coder, but also be a good team player in production and user experience design.
 
 
 ## Expertise
@@ -9,17 +9,16 @@
 * #### Front End
 	* JavaScript, ES6, HTML5, CSS3
 	* React.js, Redux, AngularJS, Extjs
-	* Karma, Mocha, Jasmine, Sinon, Protractor
+	* Karma, Mocha, Jasmine, Sinon, Storybook
 	* Bootstrap, SASS, LESS, Responsive
 	* Bacon.js, Ramda.js, Functional
-	* Grunt, Gulp, NPM, Webpack
 	* D3, SVG, Canvas, Web Game
 	* Mobile Web, Hybrid App
 
 * #### Dev
-	* Nodejs Tools,
-	* UI Testing, BDD, Scrum
-	* Git, SVN, Jenkins
+	* Grunt, Gulp, NPM, Webpack, Babel
+	* Git, SVN, Jenkins, TeamCity
+	* UI Testing, BDD, Scrum, Kanban
 	
 * #### Back End
 	* Node.js, Express, MongoDB, RedisDB
@@ -30,7 +29,8 @@
 
 ## Experiences
 
-* #### Web Application Developer   ##### Tourism Holdings Limited : from 2016-03 to Now	* As a major role in developing React & Redux to delivery high performed features and great experience for production;	* Responsible for Node.js RESTful api developing, as a middleware system to call SOAP web service;	* Participate in the front-end architecture work in a new generation system developed by React. working with backend dev on AWS ElasticBeanstalk, S3 bucket, API Gateway;	* Responsible on production page performance. resolved significant webpage optimisation
+* #### Web Application Developer   ##### Tourism Holdings Limited : from 2016-03 to Now	* As a major role in developing React & Redux to delivery high performed features and great experience for production;	* Responsible for Node.js RESTful api developing, as a middleware system to call SOAP web service;	* Participating in the front-end architecture work in a new system developed by React. working on AWS ElasticBeanstalk, S3 bucket, API Gateway;	* Responsible on production page performance. resolved significant webpage optimisation
+	* Participating Front-end micro service architecture based on Tailor web server;
 
 * #### Sr Front-end Developer
   ##### `Vodafone New Zealand` : from 2015-11 to Now
@@ -77,7 +77,7 @@
 
 ## Achievements
 
-* #### THL Booking Component (React+Redux Britz Booking)	* THL CamperVan booking system, An enterprise level SPA withReact & Redux and latest ES6 feature.	* Responsible for flexible searching feature which made great profitduring booking season, delivery high perform UI components andmaintainable app state management;	* Testing reducers only focus on state flow. Using React StoryBooklibs for UI components testing;	* Refactor structure of React components and Redux containers, toresolve an production perf issue significantly;* #### THL TCX-API (Node.js RESTful)	* A RESTful web server built by Nodejs and TypeScript, deployed on AWS ElasticBeanstalk, with Redis DB as cache repository. Using SOAP to call THL core web services or AWS micro service.	* Responsible for new features and maintenance, such as DPS payment, rental and vehicles management;	* Responsible for building and deploying task on Jenkins;	* Integrated AWS S3 for feedback screenshot image saving;	* Using AWS api gateway and swagger for RESTful config anddesigning.
+* #### THL Booking Component (React+Redux Britz Booking)	* THL CamperVan booking system, An enterprise level SPA withReact & Redux and latest ES6 feature.	* Responsible for "flexible searching" feature which made great profitduring booking season, delivery high perform UI components andmaintainable app state management;	* Testing reducers only focus on state flow. Using React StoryBooklibs for UI components testing;	* Refactor structure of React components and Redux containers, toresolve an production perf issue significantly;* #### THL TCX-API (Node.js)	* A RESTful web service built by Nodejs, Sockets.io and TypeScript, deployed on AWS ElasticBeanstalk, with Redis DB as cache repository. Using SOAP to call THL core web services or AWS micro service.	* Responsible for new features and maintenance, such as DPS payment, rental and vehicles management;	* Responsible for integration task script on Jenkins;	* Integrated AWS S3 for feedback screenshot image saving;	* Using AWS api gateway for API configuration.
 
 * #### MyVodafone webapp (AngularJS [myvodafone](https://www.vodafone.co.nz/myvodafone/))
    * An innovative enterprise level SPA built by AngularJS, with UI automation test, bootstrap responsive and Reactive Functional design.
@@ -88,27 +88,18 @@
 	* Pair programming with teammate to implement RESTful api based on Java Spring and Web Services.
 	* Developed NodeJS proxy tool, for mocking REST API in local environment. Made significant improvement in front-end process;
    	 
-* #### Alibaba DingTalk ChatApp (AngularJS [Website URL](https://im.dingtalk.com))
-	* A successful and innovative chatting SPA, which mainly focuses on business communicate. 
-	* Used AngularJS, Bower/Npm, Browserify, Websocket. Used Karma+Jasmine for testing.
-	* Responsible for derectives development, integration building, architecture design. 
-	* Building App from scratch with the whole team.
-	* Help team to resolve AngularJS performance issues.
-	
 * #### Alibaba Seller Lottery System (React)
     * Using React.js, Flux, CommonJS, Babel+ES6, Webpack and HTML5 for SPA development.
     * Built a solution of 'Isomorphic React'. Render UI component on the Node.js express server.
     * Responsible for React UI and architecture. Built components library, including Tree, SlideView, TableGrid ([Github Demo](https://github.com/hlissnake/react-ui)).
     * Solid understanding of React's Virtual Dom Algorithm, for React performance optimization.
    
-* #### Operation Platform for Alibaba staff
-	* Responsible for internal UI Library called "OCP" which mainly focus on backend developer. Based on Bootstrap CSS, OOP design, UI lifecycle, Event delegation, and JS Template. Such as: "Form Inputs", "Grid", "Forest(multiple trees)", etc.
-	* Be in charge of project management, front-end architecture design and javascript module development.
-
-* #### Loan Workflow System By Extjs
-	* Financial system for Agriculture Bacnk of China. Used Extjs framework for rich interaction front end development.
-	* Built components library, to help java developer use Extjs easily. Used JSP customize tag to wrap javascript code in server page;
-	* Great knowledge on Extjs OOP design pattern, Developed Extjs components' extensions for customize features
+* #### Alibaba DingTalk ChatApp (AngularJS [Website URL](https://im.dingtalk.com))
+	* A successful and innovative chatting SPA, which mainly focuses on business communicate. 
+	* Used AngularJS, Bower/Npm, Browserify, Websocket. Used Karma+Jasmine for testing.
+	* Responsible for derectives development, integration building, architecture design. 
+	* Building App from scratch with the whole team.
+	* Help team to resolve AngularJS performance issues.
 
 * #### HTML5 WebApps on Mobile
 	* Took charge in several innovative HTML5 SPAs built in Alibaba hybrid webview:
@@ -116,11 +107,6 @@
 	* ##### Online gambling (Demos in portfolio below): 
 		* Responsible for SPA designed, HTML5, CSS3 features and 'Finite State Machine' algorithm to manage the states and lifecycle.
 		* Used significant CSS3 3d transform to enhanced the animation effects.
-	
-	* ##### Virtual Reality in Alibaba App
-    	* A innovative project enhanced car e-business and exhibition online.
-    	* Used mobile gravity sensor api to detect device's orientation, wrote pure javascript without any other library support, to achieve device gestures and VR experience.
-    	* Multiple render supported: Canvas2d, CSS3, WebGL.
 	
 	* ##### High secure online car race: 
 		* Responsible for high secure javascript to prevent cheating in game. Work with team to develop solutions to detect the javascript hacking and illegal actions.
@@ -149,13 +135,7 @@
 
 * `HTML5 Games`: Game developing is a skill for coder, and I take it as a passionate hobbie.
 	* [Pseudo 3d game based on 2d Cavnas](http://hlissnake.github.io/pseudo3d/car/) 
-	* [Jumping Tofu](http://h5.m.taobao.com/laiwang/game/tofu/index.html)
    	* [Jumping Ball](http://h5.m.taobao.com/laiwang/game/jump/index.html)
-
-* `Virtual Reality`: recommend view in your phone, then move it!
-    * [Stars Ocean](http://www.tmall.com/go/chn/common/tgp-startui.php)
-    * [Inside Cockpit](http://m.laiwang.com/market/laiwang/tmall-vr-car.php?carid=1)
-    * [Cockpit WebGL](http://hlissnake.github.io/vr/demo/webgl.html)
  
 * `Real-time Gambling Webapp`: Depending on hybrid network, cannot run on web lonely.
 	* [screenshots gif](http://hlissnake.github.io/image/hitpoint.gif)
@@ -166,7 +146,6 @@
     * [SlideShow](http://hlissnake.github.io/react-ui/demo/slide/)
 
 * Proxy tool based on Express
-    * waiting to be publish on NPM 
 
 
 ### Contact:
