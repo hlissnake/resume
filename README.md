@@ -10,15 +10,7 @@
 
 ## Summary
 
-* I am a skilled web developer with 8 years of experience in both Java Back-end and Front-end areas.
-
-* React and Functional Driven Javascript expert in SPAs, UI Components, Mobile web and Performance optimization;
-
-* Skilled in leading frameworks as React, Angular, to build high-qualiity, scalable and reusable components and Front-end solution.
-
-* With experience of Node.js server side product and "Isomorphic" solution.
-
-* Passionate about change and trying new things. I love personal projects and learning new techs, and bring them to improve user experience;
+* As a 9 years agile geek in web engineering, with experience in Java full-stack and the JavaScript stack development;.* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Angular rendering theory;* Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;* Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Jenkins, TeamCity, Docker;* Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;* Great English writing and speaking skills. Not only working as a dev coder, but also be a good team player in production and user experience design.
 
 
 ## Expertise
@@ -30,7 +22,7 @@
 	* Bootstrap, SASS, LESS, Responsive
 	* Bacon.js, Ramda.js, Functional
 	* Grunt, Gulp, NPM, Webpack
-	* D3, SVG, Web Game
+	* D3, SVG, Canvas, Web Game
 	* Mobile Web, Hybrid App
 
 * #### Dev
@@ -39,25 +31,22 @@
 	* Git, SVN, Jenkins
 	
 * #### Back End
-	* Node.js, Express, MongoDB
-	* Java, Struts2, Spring MVC, RESTful, Web service
-	* SQL, Oracle DB, Hibernate, NoSQL
+	* Node.js, Express, MongoDB, RedisDB
+	* AWS, EC2, S3, API Gateway
+	* Java/J2EE, Spring MVC, RESTful, Web service
+	* SQL, Hibernate
 	* ASP.NET, C#
 
 ## Experiences
 
-* #### Interaction Developer
+* #### Web Application Developer   ##### Tourism Holdings Limited : from 2016-03 to Now	* As a major role in developing React & Redux to delivery high performed features and great experience for production;	* Responsible for Node.js RESTful api developing, as a middleware system to call SOAP web service;	* Participate in the front-end architecture work in a new generation system developed by React. working with backend dev on AWS ElasticBeanstalk, S3 bucket, API Gateway;	* Responsible on production page performance. resolved significant webpage optimisation
 
-  ##### `Vodafone New Zealand` :
-  
-  from 2015-11 to Now
+* #### Sr Front-end Developer
+  ##### `Vodafone New Zealand` : from 2015-11 to Now
   
   	* Working in Vodafone digital department, having fun of Pair-programming, BDD, TDD in a high flexiable Scrum team.
-  	
   	* Working in Enterprise level SPA as a major front-end developer. Responsible for both front-end UI and RESTful api development;
-  	
   	* With fun of reactive and functional programming in JavaScript. 
-  	
   	* Built tool and write Front-end tutorial document in the team for front-end integration improvements;
 
 * #### Senior Front-end Developer
@@ -67,9 +56,7 @@
   from 2011-7 to 2015-9
 
 	* Worked in several leading departments of forefront area like E-Commerical, CMS, Workflow, WebApp, Mobile. Being the core role of front end development in agile proccess.
-	
 	* Experiences with Front-end components solution. Integrating cutting edge framework and architecture that suited the project needs
-	
 	* Take part in "All in mobile internet" of Alibaba's mobile evolution. As major role in innovative projects to bring new idea to the table, like WebGame, Virtual Reality, High Secured Webapp.
 	
 * #### Java Full Stack Engineer
@@ -98,6 +85,8 @@
 	* Bachelor's degree of Sciences in Information and Computing Sciences. 
 
 ## Achievements
+
+* #### THL Booking Component (React+Redux Britz Booking)	* THL CamperVan booking system, An enterprise level SPA withReact & Redux and latest ES6 feature.	* Responsible for flexible searching feature which made great profitduring booking season, delivery high perform UI components andmaintainable app state management;	* Testing reducers only focus on state flow. Using React StoryBooklibs for UI components testing;	* Refactor structure of React components and Redux containers, toresolve an production perf issue significantly;* #### THL TCX-API (Node.js RESTful)	* A RESTful web server built by Nodejs and TypeScript, deployed on AWS ElasticBeanstalk, with Redis DB as cache repository. Using SOAP to call THL core web services or AWS micro service.	* Responsible for new features and maintenance, such as DPS payment, rental and vehicles management;	* Responsible for building and deploying task on Jenkins;	* Integrated AWS S3 for feedback screenshot image saving;	* Using AWS api gateway and swagger for RESTful config anddesigning.
 
 * #### MyVodafone webapp (AngularJS [myvodafone](https://www.vodafone.co.nz/myvodafone/))
    * An innovative enterprise level SPA built by AngularJS, with UI automation test, bootstrap responsive and Reactive Functional design.
@@ -160,6 +149,8 @@
 ## Portfolio
 
 * `Github`: [https://github.com/hlissnake](https://github.com/hlissnake)
+
+* Brtiz Booking Component: [booking.britz.co.nz](https://booking.britz.co.nz)
 
 * `Com.js` [github repo](https://github.com/hlissnake/com.js) : A Virtual Display Object Library for html5 canvas basic graphic.
 
