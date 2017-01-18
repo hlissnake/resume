@@ -1,16 +1,7 @@
-## Long Huang
-
-* Senior front end developer in `Alibaba Group` and `Vodafone NZ`. Working experience in Japan.
-* Holding valid working visa.
-* Email: [hlislichking@gmail.com](hlislichking@gmail.com)
-* Phone: [0273918293](0273918293)
-
-=====
-
 
 ## Summary
 
-* As a 9 years agile geek in web engineering, with experience in Java full-stack and the JavaScript stack development;.* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Angular rendering theory;* Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;* Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Jenkins, TeamCity, Docker;* Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;* Great English writing and speaking skills. Not only working as a dev coder, but also be a good team player in production and user experience design.
+* As a 9 years agile geek in web engineering, with experience in Java full-stack and the JavaScript stack development;.* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture;* Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;* Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Jenkins, TeamCity, Docker;* Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;* Great English writing and speaking skills. Not only working as a dev coder, but also be a good team player in production and user experience design.
 
 
 ## Expertise
@@ -45,8 +36,8 @@
   ##### `Vodafone New Zealand` : from 2015-11 to Now
   
   	* Working in Vodafone digital department, having fun of Pair-programming, BDD, TDD in a high flexiable Scrum team.
-  	* Working in Enterprise level SPA as a major front-end developer. Responsible for both front-end UI and RESTful api development;
-  	* With fun of reactive and functional programming in JavaScript. 
+  	* Working in Enterprise level SPA as a major developer. Responsible for front-end development for MyVodafone web app;
+  	* With fun of reactive and functional programming in JavaScript programming. 
   	* Built tool and write Front-end tutorial document in the team for front-end integration improvements;
 
 * #### Senior Front-end Developer
@@ -94,7 +85,7 @@
    * Using D3.js for high-performed Visualization in Vodafone usage view;
    * Bacon.js pipe stream and Functional programming for complex logic and data-flow management;
 	* Mocha+Chai+Karma for Angular testing, Sinon for JavaScript mocking.
-	* Pair programming with teammate to implement RESTful api based on Spring RESTful and Web Services.
+	* Pair programming with teammate to implement RESTful api based on Java Spring and Web Services.
 	* Developed NodeJS proxy tool, for mocking REST API in local environment. Made significant improvement in front-end process;
    	 
 * #### Alibaba DingTalk ChatApp (AngularJS [Website URL](https://im.dingtalk.com))
@@ -176,3 +167,10 @@
 
 * Proxy tool based on Express
     * waiting to be publish on NPM 
+
+
+### Contact:
+* Email: [hlislichking@gmail.com](hlislichking@gmail.com)
+* Phone: [0273918293](0273918293)
+
+=====
