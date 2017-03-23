@@ -6,48 +6,49 @@
 =====
 ## Summary
 
-* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and reusable UI components and WebApp architecture. Solid understanding of React/Angular rendering theory;
-* Expertise in browser performance best practices: DOM rendering, script and asset load optimisations;
+* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and reusable UI/UX and WebApp architecture. 
+* Solid understanding of Statefull/Stateless UI component design, and React/Angular rendering theory;
+* Expertise in browser performance best practices. Passionate on bringing best technologies into UX enhancement;
 * Skilled in Node.js, Express, ES6, Async Generator, Event-loop; 
-* Skilled in JavaScript integration with Grunt/Gulp, Webpack;
-* Skilled in Java/J2EE, AWS, Restful, Web Services. Familiar with integration tools such as Jenkins, TeamCity, Docker;
+* Skilled in JavaScript integration as Grunt/Gulp, Webpack;
+* Skilled in Java/J2EE, AWS, Restful. Integration tools such as Jenkins, TeamCity, Docker;
 * Experience working in a flexible Agile environment. Familiar with Scrum, Kanban, JIRA, TDD and pair programming;
 
 ## Expertise
 
 * #### Front End
     * Vanilla JavaScript, ES6, HTML5, Web Component
-    * React, Redux, AngularJS, Extjs
+    * React, Redux, React-Router, AngularJS
     * Karma, Mocha, Sinon, Storybook
-    * CSS3, Bootstrap, SASS, LESS, Responsive, UX
+    * CSS3, Bootstrap, SASS, Responsive, UX
     * Rx, Bacon.js, Ramda.js
-    * D3, SVG, Canvas, Web Game
-    * Mobile Web, Hybrid App, ReactNative
+    * D3, SVG, Canvas, Web Gaming
+    * Mobile Web, Hybrid App
 
 * #### Dev
-    * Grunt, Gulp, NPM, Webpack
+    * Grunt, Gulp, Webpack, NPM
     * Git, SVN, Jenkins, TeamCity
     * UI Testing, BDD
 
 * #### Back End
     * Node.js, Express, RESTful
     * AWS EC2, S3, Lambda, API Gateway (Certified Associate Developer)
-    * Java/J2EE, Spring boot, Spring MVC, Apache
+    * Java/J2EE, Spring MVC, Apache
     * MongoDB, DynamoDB, SQL, Hibernate
     * ASP.NET, C#
 
 ## Experiences
 
-* #### Web Application Developer
+* #### Web Application Developer (NZ)
   ##### Tourism Holdings Limited: from 2016-03 to Present
     * Responsible for development and delivery to production of React & Redux high performance features and great user experience;
     * Responsible for front-end architecture: Routers struct design, Redux middleware, Dev Environment API mocking.
-    * Responsible for developing Node.js RESTful/Sockets API as a middleware system to call web services.;
     * Contributed high performance UI components to the UI library, such as infinite slider with brilliant UX in mobile;
     * Responsible for production performance. Contributed significant web page optimisation;
     * Participating in Front-end micro service architecture based on Tailor web server;
+    * Responsible for developing Node.js RESTful/Sockets API as a middleware system to call web services.;
 
-* #### Sr Front-end Developer (Contractor)
+* #### Sr Front-end Developer (NZ)
   ##### `Vodafone New Zealand` : from 2015-11 to 2016-03
     * Worked in Vodafone digital department, practicing Pair-programming, BDD, and TDD in a high flexible Scrum team.
     * Worked on an Enterprise level SPA with a major development role. Responsible for front-end development of MyVodafone web app;
@@ -87,10 +88,10 @@
 * #### THL COSMOS
 	* A innovative new ecosystem for vehicle rentaling management, develop from scratch design to the early Demo;
 	* Delivering great UX features with React & Redux & ES6 & Webpack. 
-	* Responsible for dynamic routers architecture design for the WebApp;
-	* Contributing on common UI/UX API building;
 	* Participating in front-end micro service arthitecture based on 'Tailor' backend framework;
-	
+	* Responsible for dynamic routers architecture design for the WebApp;
+	* Contributing on common UX component library building;
+
 * #### THL Booking Component (React+Redux Britz Booking)
     * THL CamperVan booking system, An enterprise level SPA with React & Redux and ES6.
     * Contributed an infinite scroll component on mobile, with qualify functions and high performance animations;
@@ -113,14 +114,9 @@
     * Contributed a NodeJS proxy tool for mocking API in dev environment. Made significant improvements in the front-end process;
 
 * #### Alibaba Seller Lottery System (React)
-    * Used React.js, Flux, CommonJS, Babel+ES6, Webpack and HTML5 for SPA development.
+    * A practice project using React, Flux, ES6, Webpack and HTML5 for SPA development.
     * Built an 'Isomorphic React' server side rendering solution on Node.js express.
     * Responsible for a React UI library, including Tree, SlideView, TableGrid ([Github Demo](https://github.com/hlissnake/react-ui)).
-
-* #### Alibaba DingTalk ChatApp (AngularJS [Website URL](https://im.dingtalk.com))
-    * A successful and innovative chatting SPA, which mainly focuses on business communication.
-    * Responsible for directives development, integration building, and architecture design.
-    * Built App from scratch with the whole team. Helped team to resolve AngularJS performance issues.
 
 * #### Tmall online gambling WebApps on Mobile (Demos in portfolio below):
     * An innovative HTML5 SPA built in Alibaba hybrid webview;
@@ -128,36 +124,43 @@
     * Used 'Finite State Machine' algorithm to manage the states and lifecycle;
     * Designed a CSS3 3d animation to enhance the gambling process UX;
 
+* #### HTML5 Gaming and framework design
+
+    * Responsible for enhancement of interaction in e-business. Took charge of lots of innovative html5 games as a major role;
+    * Web Games deployed in Alibaba Hybrid App. Developed several creative web game, following in my portfolio;
+    * Contribute to a open-source HTML5 gaming engine call 'Hilo'
+
 * #### Mobile hybrid framework
 
     * Designed the js-bridge library for Alibaba Native Apps, both on mobile web view;
     * Consumed hybrid APIs to enhance the web view interactions and functionalities in practical projects.
 
-* #### HTML5 Game develop and framework design
-
-    * Responsible for enhancement of interaction in e-business. Took charge of lots of innovative html5 games as a major role.
-    * Web Games deployed in Alibaba Hybrid App. Developed several creative web game, following in my portfolio
+* #### Alibaba DingTalk ChatApp (AngularJS [Website URL](https://im.dingtalk.com))
+    * A successful and innovative chatting SPA, which mainly focuses on business communication.
+    * Responsible for directives development, integration building, and architecture design.
+    * Built App from scratch with the whole team. Helped team to resolve AngularJS performance issues.
 
 ## Portfolio
 
 * `Github`: [https://github.com/hlissnake](https://github.com/hlissnake)
 
-* Brtiz Booking Component: [booking.britz.co.nz](https://booking.britz.co.nz)
+* `Brtiz Booking`: [booking.britz.co.nz](https://booking.britz.co.nz)
 
 * `Com.js` [github repo](https://github.com/hlissnake/com.js) : A Virtual Display Object Library for html5 canvas basic graphic.
 
-* `Enhanced Javascript Library` [github repo](https://hlissnake.github.io/HL-JS-Library/) A self-coding JS Library which enhances the native javascript, provides Dom manipulation and UI Components.
+* `Hilo Game Enginee` [https://github.com/hiloteam/Hilo](https://github.com/hiloteam/Hilo)
 
-* `HTML5 Games`: Passionate about games development.
+* `HTML5 Games`:
     * [Pseudo 3d game based on 2d Cavnas](http://hlissnake.github.io/pseudo3d/car/)
-       * [Jumping Ball](http://h5.m.taobao.com/laiwang/game/jump/index.html)
+    * [Jumping Ball](http://h5.m.taobao.com/laiwang/game/jump/index.html)
 
-* `Real-time Gambling WebApp`: Depending on the hybrid network, cannot run on web lonely.
+* `Tmall Gambling WebApp`: Depending on the hybrid network, cannot run on web lonely.
     * [screenshots gif](http://hlissnake.github.io/image/hitpoint.gif)
     * [screenshots2 gif](http://hlissnake.github.io/image/hitpoint2.gif)
 
 * React UI Demos:
     * [Tree Component](http://hlissnake.github.io/react-ui/demo/tree/)
-    * [SlideShow](http://hlissnake.github.io/react-ui/demo/slide/)
+    * [Slide Show](http://hlissnake.github.io/react-ui/demo/slide/)
+    * Range Slider
 
-* Proxy tool based on Express
+* `Enhanced Javascript Library` [github repo](https://hlissnake.github.io/HL-JS-Library/) A self-coding JS Library which enhances the native javascript, provides Dom manipulation and UI Components.
