@@ -10,7 +10,12 @@
 
 ## Summary
 
-* As a 9 years agile geek in web engineering, with experience in Java full-stack and the JavaScript stack development;.* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Angular rendering theory;* Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;* Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Jenkins, TeamCity, Docker;* Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;* Great English writing and speaking skills. Not only working as a dev coder, but also be a good team player in production and user experience design.
+* As a 10 years agile geek in web engineering, with experience in Java full-stack and the JavaScript stack development;.
+* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Angular rendering theory;
+* Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;
+* Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Jenkins, TeamCity, Docker;
+* Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;
+* hungry to gain new tech which can change the world. Holding great passion on Blockchain forefront area, Learning Bitcoin base fundamental theory and Ethereum smart contract programming;
 
 
 ## Expertise
@@ -36,10 +41,25 @@
 	* Java/J2EE, Spring MVC, RESTful, Web service
 	* SQL, Hibernate
 	* ASP.NET, C#
+	
+* #### BlockChain
+	* Bitcoin fundamental theroy;
+	* Ethereum smart contract solidity;
+	* Exchange operating principle and API;
 
 ## Experiences
 
-* #### Web Application Developer   ##### Tourism Holdings Limited : from 2016-03 to Now	* As a major role in developing React & Redux to delivery high performed features and great experience for production;	* Responsible for Node.js RESTful api developing, as a middleware system to call SOAP web service;	* Participate in the front-end architecture work in a new generation system developed by React. working with backend dev on AWS ElasticBeanstalk, S3 bucket, API Gateway;	* Responsible on production page performance. resolved significant webpage optimisation
+* #### Senior Software Engineer 
+  ##### Air New Zealand : from 2017-04 to Now
+  	* Responsible for Front-end developing role in Flight Booking team;
+	* Participate in React migration on the legacy system; 
+  
+* #### Web Application Developer 
+  ##### Tourism Holdings Limited : from 2016-03 to 2017-04
+	* As a major role in developing React & Redux to delivery high performed features and great experience for production;
+	* Responsible for Node.js RESTful api developing, as a middleware system to call SOAP web service;
+	* Participate in the front-end architecture work in a new generation system developed by React. working with backend dev on AWS ElasticBeanstalk, S3 bucket, API Gateway;
+	* Responsible on production page performance. resolved significant webpage optimisation
 
 * #### Sr Front-end Developer
   ##### `Vodafone New Zealand` : from 2015-11 to Now
@@ -86,7 +106,28 @@
 
 ## Achievements
 
-* #### THL Booking Component (React+Redux Britz Booking)	* THL CamperVan booking system, An enterprise level SPA withReact & Redux and latest ES6 feature.	* Responsible for flexible searching feature which made great profitduring booking season, delivery high perform UI components andmaintainable app state management;	* Testing reducers only focus on state flow. Using React StoryBooklibs for UI components testing;	* Refactor structure of React components and Redux containers, toresolve an production perf issue significantly;* #### THL TCX-API (Node.js RESTful)	* A RESTful web server built by Nodejs and TypeScript, deployed on AWS ElasticBeanstalk, with Redis DB as cache repository. Using SOAP to call THL core web services or AWS micro service.	* Responsible for new features and maintenance, such as DPS payment, rental and vehicles management;	* Responsible for building and deploying task on Jenkins;	* Integrated AWS S3 for feedback screenshot image saving;	* Using AWS api gateway and swagger for RESTful config anddesigning.
+* #### Air New Zealand Flight Booking Responsive site
+
+* #### Air New Zealand React widget for Outlook plugin
+
+* #### THL Booking Component (React+Redux Britz Booking)
+	* THL CamperVan booking system, An enterprise level SPA with
+React & Redux and latest ES6 feature.
+	* Responsible for flexible searching feature which made great profit
+during booking season, delivery high perform UI components and
+maintainable app state management;
+	* Testing reducers only focus on state flow. Using React StoryBook
+libs for UI components testing;
+	* Refactor structure of React components and Redux containers, to
+resolve an production perf issue significantly;
+
+* #### THL TCX-API (Node.js RESTful)
+	* A RESTful web server built by Nodejs and TypeScript, deployed on AWS ElasticBeanstalk, with Redis DB as cache repository. Using SOAP to call THL core web services or AWS micro service.
+	* Responsible for new features and maintenance, such as DPS payment, rental and vehicles management;
+	* Responsible for building and deploying task on Jenkins;
+	* Integrated AWS S3 for feedback screenshot image saving;
+	* Using AWS api gateway and swagger for RESTful config and
+designing.
 
 * #### MyVodafone webapp (AngularJS [myvodafone](https://www.vodafone.co.nz/myvodafone/))
    * An innovative enterprise level SPA built by AngularJS, with UI automation test, bootstrap responsive and Reactive Functional design.
