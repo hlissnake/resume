@@ -51,21 +51,20 @@
 ## Experiences
 
 * #### Senior Software Engineer 
-  ##### Air New Zealand : from 2017-04 to Now
-  
+  ##### `Air New Zealand` : from 2017-04 to Now
   	* Working as a major role in AirNZ Flight Booking squad. Responsible for legacy booking engine features delivery and new React architecture refactor; 
   	* Participating in virtual team AirNZ/UI & Unison, to contribute the React Components consuming through the entire AirNZ project. 
 	* Undertake a major role in the new Flight Booking project: Star Alliance Redemption, a new generation SPA developed using React, Redux, Saga, Unison UI.
-	
+
 * #### Ethereum ÐApp Developer
-  ##### Part time : Mar 2018 – Jun 2018
+  ##### `Part time` : Mar 2018 – Jun 2018
   
   	* With a great passion for Blockchain decentralized service and crazy Cryptocurrencies. I push myself into this entirely new environment for my next career goal.
 	* Spend lots of time to learn the Bitcoin & Ethereum base theory and how blockchain is changing the world. Have finished a certification for Solidity & Ethereum ÐApp development.
 	* Gained a chance working with my friend's company, as a part-time consulting for their Blockchain solution. We have designed a solution to solve the online agreement signature. It is based on the Ethereum Smart Contract to use public key as a user identity. then using SHA256 signing for the contract agreement. See less
   
 * #### Web Application Developer 
-  ##### Tourism Holdings Limited : from 2016-03 to 2017-04
+  ##### `Tourism Holdings Limited` : from 2016-03 to 2017-04
   
 	* As a major role in developing React & Redux to delivery high performed features and great experience for production;
 	* Responsible for Node.js RESTful api developing, as a middleware system to call SOAP web service;
@@ -116,6 +115,8 @@
 	* Bachelor's degree of Sciences in Information and Computing Sciences. 
 
 ## Achievements
+
+* #### Air New Zealand Star Alliance Redemption SPA
 
 * #### Air New Zealand Flight Booking Responsive site
 
