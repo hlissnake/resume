@@ -13,6 +13,7 @@
 * As a 10 years agile geek in web engineering, with experience in Java full-stack and the JavaScript stack development;.
 * Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Angular rendering theory;
 * Skilled in Node.js, Express, ES6, Async Generator, Event-loop; Skilled in JavaScript integration with Grunt/Gulp, Webpack;
+* Certificated Blockchain Ethereum Developer from Blockchain Training Alliance
 * Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Jenkins, TeamCity, Docker;
 * Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair programming;
 * hungry to gain new tech which can change the world. Holding great passion on Blockchain forefront area, Learning Bitcoin base fundamental theory and Ethereum smart contract programming;
@@ -51,8 +52,15 @@
 
 * #### Senior Software Engineer 
   ##### Air New Zealand : from 2017-04 to Now
-  	* Responsible for Front-end developing role in Flight Booking team;
-	* Participate in React migration on the legacy system; 
+  	* Working as a major role in AirNZ Flight Booking squad. Responsible for legacy booking engine features delivery and new React architecture refactor; 
+	* Participating in virtual team AirNZ/UI & Unison, to contribute the React Components consuming through the entire AirNZ project. 
+	* Undertake a major role in the new Flight Booking project: Star Alliance Redemption, a new generation SPA developed using React, Redux, Saga, Unison UI.
+	
+* #### Ethereum ÐApp Developer
+  ##### Part time : Mar 2018 – Jun 2018
+  	* With a great passion for Blockchain decentralized service and crazy Cryptocurrencies. I push myself into this entirely new environment for my next career goal.
+	* Spend lots of time to learn the Bitcoin & Ethereum base theory and how blockchain is changing the world. Have finished a certification for Solidity & Ethereum ÐApp development.
+	* Gained a chance working with my friend's company, as a part-time consulting for their Blockchain solution. We have designed a solution to solve the online agreement signature. It is based on the Ethereum Smart Contract to use public key as a user identity. then using SHA256 signing for the contract agreement. See less
   
 * #### Web Application Developer 
   ##### Tourism Holdings Limited : from 2016-03 to 2017-04
