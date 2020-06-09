@@ -1,27 +1,92 @@
-## Jack Huang
+## Long Huang
 
-* Senior front end developer in Alibaba Group. Working experience in Japan.
-* Holding long-term valid working visa.
 * Email: [hlislichking@gmail.com](hlislichking@gmail.com)
 * Phone: [0273918293](0273918293)
 
-=====
 
 
 ## Summary
 
-* 8 years in commercial internet industry. Original I worked as Java full-stack developer, then joined Alibaba and put myself into the Front End development, as I believed web application will be the next feature;
+* As a 10 years agile geek in web engineering, with experience in Java full-stack and the JavaScript stack development;
+* Expertise in React, Redux, Angular. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Angular rendering theory;
+* Skilled in TypeScript, Node.js, Express, ES6, Async Generator; Grunt/Gulp, Webpack;
+* Skilled in Java/J2EE, AWS, Restful, Web Service. Familiar to integration tools as Codefresh, TeamCity, Docker;
+* Great passion in Game development. Have 2d pixel game experience.
+* Great skills of working in flexible Agile environment, familiar to Scrum, Kanban, JIRA, TDD and pair
+programming;
+* Hungry to gain new tech which can change the world;
 
-* Expert of JavaScript, HTML5, CSS3, W3C features, Nodejs, Mobile Web, Hybrid, responsive design, web performance optimization;
 
-* Skilled in React, Flux, AngularJS, Backbone.js, Extjs2. to build scalable and usable components solutions;
+## Expertise
 
-* Enthusiastic on SPAs, UI Patterns, WebGames, Mobile development. I love creating personal libraries and learning as a hobbie. Participating in open-source game engine developing;
+* #### Front End
+	* JavaScript, ES6, HTML5, CSS3
+	* React.js, Redux, Vue, AngularJS, Extjs
+	* Karma, Mocha, Jasmine, Sinon, Protractor
+	* SASS, LESS, Responsive design, Grid system
+	* Bacon.js, Ramda.js, Functional
+	* Grunt, Gulp, Webpack
+	* D3, SVG, Canvas, Web Game
+	* Mobile Web, Hybrid App
+	* Videojs, DRM
 
-* Skilled in Back-end development, with Java J2EE and ASP.NET, SQL, Oracle, HBase DB. Agile development and TDD fans;
-
+* #### Dev
+	* Nodejs Tools,
+	* UI Testing, BDD, Scrum
+	* Git, SVN, Jenkins
+	
+* #### Back End
+	* Node.js, Express, MongoDB, RedisDB
+	* AWS, EC2, S3, API Gateway
+	* Java/J2EE, Spring MVC, RESTful, Web service
+	* SQL, Hibernate
+	* ASP.NET, C#
+	
+* #### BlockChain
+	* Bitcoin fundamental theroy;
+	* Ethereum smart contract solidity;
+	* Exchange operating principle and API;
 
 ## Experiences
+
+* #### Senior Software Engineer (Contractor)
+  ##### `Sky TV` : from 2020-01 to now
+  * In a new team of Skytv, to build a new generation of online video & live streaming platform;
+  * Be a core role for the development of Web-app, with some core features:
+    * Complex UI Component like: Scrollable List, Video Player Customized Controls;
+    * API racing condition Redux middleware;
+    * LiveTV streaming implementation & Video DRM;
+  * Mentoring other teammates for improveing the frontend skill. Reviewing the code and giving feedbacl;
+  * Working with tech leader for designing of web-app architecture like: 
+    * SPA Router structure; 
+    * API common contract;
+    * Page UI rendering performance enhancement;
+    * React new Hooks enhancement with self life-cycle component (Videojs Player / Audio Player);
+  * Working with designer for Responsive Layout design and User Interaction;
+
+* #### Senior Software Engineer 
+  ##### `Air New Zealand` : from 2017-04 to 2020-01
+  * As a major role in AirNZ Flight Booking squad. Responsible for full stack features delivery both Java & React.;
+  * Responsible for React migration of the legacy flights booking;
+  * Participating in AirNZ internal React component UI library. contribute serval core components.
+  * Mentoring junior & backend devs for developing their React skills.
+  * Undertake core development & SPA architect design in serval new projects: Star Alliance Redemption & New Payment.
+  
+* #### Web Application Developer 
+  ##### `Tourism Holdings Limited` : from 2016-03 to 2017-04
+  
+	* As a major role in developing React & Redux to delivery high performed features and great experience for production;
+	* Responsible for Node.js RESTful api developing, as a middleware system to call SOAP web service;
+	* Participate in the front-end architecture work in a new generation system developed by React. working with backend dev on AWS ElasticBeanstalk, S3 bucket, API Gateway;
+	* Responsible on production page performance. resolved significant webpage optimisation
+
+* #### Senior Front-end Developer
+  ##### `Vodafone New Zealand` : from 2015-11 to Now
+  
+  	* Working in Vodafone digital department, having fun of Pair-programming, BDD, TDD in a high flexiable Scrum team.
+  	* Working in Enterprise level SPA as a major front-end developer. Responsible for both front-end UI and RESTful api development;
+  	* With fun of reactive and functional programming in JavaScript. 
+  	* Built tool and write Front-end tutorial document in the team for front-end integration improvements;
 
 * #### Senior Front-end Developer
   
@@ -29,99 +94,94 @@
   
   from 2011-7 to 2015-9
 
-	* Worked in several leading departments of forefront area like E-Commerical, CMS, Workflow, WebApp, Mobile, HTML5, Nodejs. Being the core role of front end development and be a greate player in agile project proccess.
-	
-	* Experiences with Frontend MVC Components Solution for internal projects, based on Alibaba internal library or React.js.
-	
-	* Participating internal javascript frameworks. Being a member of open-source game engine. We were required to not only be familir with the frameworks, but also need to create personal solutions even build new libraries or tools.
-	
-	* Take part in "All in mobile internet" of Alibaba's mobile evolution. As major role in innovative projects to bring new idea to the table, like WebGame, Virtual Reality, High Secured Web Solution.
+  * Worked in several leading departments of forefront area like E-Commerical, CMS, Workflow, WebApp, Mobile. Being the core role of front end development in agile process.
+  * Experiences with Front-end components solution. Integrating cutting edge framework and architecture that suited the project needs
+  * Take part in "All in mobile internet" of Alibaba's mobile evolution. As major role in innovative projects to bring new ideas to the table, like:
+    * Mobile Responsive web
+    * Hybrid solution
+    * Web Canvas Game
+    * Virtual Reality.
 	
 * #### Java Full Stack Engineer
 
-  `Longtop Grouop` : Longtop is a powerful financial software solution company. Its client including lots of Bank or financial agencies in China.
+  `Longtop Grouop` : Longtop is a powerful financial software solution company. Its client includes lots of Bank or financial agencies in China.
   
   from 2009-9 to 2011-7 
   
-	* Responsible for Web full-stack development of the financial banking system. Using Struts, Spring, HBase DB to build the server side system;
-	* Worked with team built a back-end UI library to make others java developer using Extjs components easily;
-	* Be the javascript/Extjs expert in the project. Help teammates to archive complex front end interactions, especially in Extjs component extensions;
+	* Responsible for full-stack development of the financial banking system. Using Struts, Spring, HBase DB to build the server side system;
+	* Contributed to a Server-side UI library to make others Java developer using Extjs components easily;
+	* Coach teammates to archive complex Front-end interactions, especially in Extjs component extensions;
 
-* #### Java Web Developer (one year in Japan)
+* #### Java Web Developer
 
   `Japan MCS` : MCS is a Japanese company located in Tokyo, provides software solutions for commerical, insurance, financial and medic-service industry.
   
   from 2006-11 to 2009-8
   
-    * Responsible for Java web development and testing, involved Structs, Spring, Hibernate, Oracle DB. Participated variety of J2EE projects in Japan financial industry.
-	* Responsible for web page javascript validation, basic front end models. Used AJAX to enhance the web page interactions.
+    * Responsible for Java development and testing in J2EE projects of Japan financial industry, using Structs, Spring, Hibernate, Oracle DB.
+	* Handled back-end work and UI work.
 	* Participated in ASP.NET project and build dynamic web app.
-
-## Expertise
-
-* #### Front End
-	* JavaScript, ES6,
-	* HTML5, CSS3, Animation,
-	* React.js, Flux,
-	* AngularJS,
-	* Extjs, Backbone.js,
-	* jQuery, [Alibaba Kissy](https://github.com/kissyteam/), Bootstrap,
-	* Web Game, Canvas
-	* Mobile Web, Hybrid,
-	* Node.js, Express, Socket.io, Isomorphic React,
-	* Jasmine, Mocha, Selenium,
-	* SASS, LESS, Responsive Design
-	* RESTful, AJAX, Websocket
-
-* #### Dev
-	* Git, SVN,
-	* Grunt, Gulp, NPM,	Yeoman,	
-	* Webpack, Browserify, Babel,
-	* Unit Testing, Agile,
-	* Ant, Maven
-	
-* #### Back End
-	* Java, J2EE,
-	* Struts2, Spring MVC,
-	* SQL, Oracle DB, Hibernate,
-	* ASP.NET, C#
 	
 ## Education
 
 * China Hebei University of Technology  from 2002 to 2006
 	* Bachelor's degree of Sciences in Information and Computing Sciences. 
 
-
 ## Achievements
 
-* #### Front end architecture:
-	* DingTalk ChatApp: responsible for recommendation of Angular.js, Application framework designing, Testing solution.
-	* Seller Lottery System: responsible for Recommendation of new React+Flux, Basic UI components designing.
-	* Complex interactive UI design, such as Tree, Forest, Grid, Virtual-Reality;
-	* Gaming engine design, such as virtual display object, virtual event system.
+* #### SkyTV new online video & streaming platform
+  * Green-field SPA with TypeScript, React, React-Native, Redux, Videojs player;
+  * Design / developing SPA architecture;
+  * UI rendering performance enhancement;
+  * Customized Video Player Controls UI with high perform interaction;
+  * Live Streaming & Video DRM encryption;
 
-* #### Mentorship:
-	* Experience in guding junior developer, had lead two graduated apprentices as a mentor.;
-	* Recognized as cole developer in technical guiding: New framework researching such as React, Angular. Innovative solution such as Virtual-Reality implementation.
+* #### Air New Zealand New Payment & Star Alliance Redemption SPA
+  * Green-field SPA with TypeScript, React, Redux-Saga, Storybook. Automation involving Storybook level Visual Regression test.
+  * New order API with Docker, AWS EC2. Consuming the Google QPX service.
+  * Responsible for core pages UI development, contributing the reusable components to common library and App level layer.
+  * Participating the core Saga implementation. Design Async pattern for complex Order flow.
 
-* #### Continuous Improvement & Innovation:
-	* Tried new tools & framework for current project improvement: using Yeoman Generator for project scaffolding, writing node.js tools for code analysing, using new React library for Webapp developing.
-	* Skilled in high-performance animation, developed by library or pure JavaScript. Provided suggestions for UI designer about Webapp's interaction and animation effects.
+* #### THL Booking Component (React+Redux Britz Booking)
+	* THL CamperVan booking system, An enterprise level SPA with
+React & Redux and latest ES6 feature.
+	* Responsible for flexible searching feature which made great profit
+during booking season, delivery high perform UI components and
+maintainable app state management;
+	* Testing reducers only focus on state flow. Using React StoryBook
+libs for UI components testing;
+	* Refactor structure of React components and Redux containers, to
+resolve an production perf issue significantly;
 
-* #### Problem Solving:
-	* DingTalk ChatApp: figured out performance issues lead by loop dirty check in Scope;
-	* Master in Chrome dev tools such as Timeline, Profiles to analyse web performance. Clearly understanding in page rendering optimization;
-	* Recognized as fast learner. Figured out new solution to help teammates archieved innovative projects;
-	 
+* #### THL TCX-API (Node.js RESTful)
+	* A RESTful web server built by Nodejs and TypeScript, deployed on AWS ElasticBeanstalk, with Redis DB as cache repository. Using SOAP to call THL core web services or AWS micro service.
+	* Responsible for new features and maintenance, such as DPS payment, rental and vehicles management;
+	* Responsible for building and deploying task on Jenkins;
+	* Integrated AWS S3 for feedback screenshot image saving;
+	* Using AWS api gateway and swagger for RESTful config and
+designing.
+
+* #### MyVodafone webapp (AngularJS [myvodafone](https://www.vodafone.co.nz/myvodafone/))
+   * An innovative enterprise level SPA built by AngularJS, with UI automation test, bootstrap responsive and Reactive Functional design.
+   * Responsible for Front-end implementation, architecture refactoring, performance optimizing;
+   * Using D3.js for high-performed Visualization in Vodafone usage view;
+   * Bacon.js pipe stream and Functional programming for complex logic and data-flow management;
+	* Mocha+Chai+Karma for Angular testing, Sinon for JavaScript mocking.
+	* Pair programming with teammate to implement RESTful api based on Spring RESTful and Web Services.
+	* Developed NodeJS proxy tool, for mocking REST API in local environment. Made significant improvement in front-end process;
+   	 
 * #### Alibaba DingTalk ChatApp (AngularJS [Website URL](https://im.dingtalk.com))
-	* A successful and innovative chat SPA, which mainly focuses on business communicate. Used AngularJS, Bower/NPM, Browserify, Websocket. Using Karma+Jasmine for testing.
-	* Responsible for derectives development, integration building, architecture design. Used 'ui-state-router' to manager Angular modules' lifecycle.
-	* Working with team to resolve performance issues caused by AngularJS dirty check loop of two-way binding.
+	* A successful and innovative chatting SPA, which mainly focuses on business communicate. 
+	* Used AngularJS, Bower/Npm, Browserify, Websocket. Used Karma+Jasmine for testing.
+	* Responsible for derectives development, integration building, architecture design. 
+	* Building App from scratch with the whole team.
+	* Help team to resolve AngularJS performance issues.
 	
 * #### Alibaba Seller Lottery System (React)
-    * Using React.js, Flux, Npm, CommonJS, Babel+ES6, Webpack and HTML5 for single-page web application development.
-    * Responsible for React UI and Project architecture. Developed components library with team, including Tree, SlideView, TableGrid ([Github Demo](https://github.com/hlissnake/react-ui)).
-    * Be familiar with the React's Virtual Dom Diff Algorithm. Based on it I got knowledge of React performance optimization and practical experience.
+    * Using React.js, Flux, CommonJS, Babel+ES6, Webpack and HTML5 for SPA development.
+    * Built a solution of 'Isomorphic React'. Render UI component on the Node.js express server.
+    * Responsible for React UI and architecture. Built components library, including Tree, SlideView, TableGrid ([Github Demo](https://github.com/hlissnake/react-ui)).
+    * Solid understanding of React's Virtual Dom Algorithm, for React performance optimization.
    
 * #### Operation Platform for Alibaba staff
 	* Responsible for internal UI Library called "OCP" which mainly focus on backend developer. Based on Bootstrap CSS, OOP design, UI lifecycle, Event delegation, and JS Template. Such as: "Form Inputs", "Grid", "Forest(multiple trees)", etc.
@@ -129,13 +189,13 @@
 
 * #### Loan Workflow System By Extjs
 	* Financial system for Agriculture Bacnk of China. Used Extjs framework for rich interaction front end development.
-	* Responsible for components library, to help java developer use Extjs easily. Used JSP customize tag to wrap javascript code in server page. We got this idea from ASP.NET server page component;
+	* Built components library, to help java developer use Extjs easily. Used JSP customize tag to wrap javascript code in server page;
 	* Great knowledge on Extjs OOP design pattern, Developed Extjs components' extensions for customize features
+
 * #### HTML5 WebApps on Mobile
 	* Took charge in several innovative HTML5 SPAs built in Alibaba hybrid webview:
 	
 	* ##### Online gambling (Demos in portfolio below): 
-	    * A successful game allow users to compete by betting, last for several months in high PV/UV.
 		* Responsible for SPA designed, HTML5, CSS3 features and 'Finite State Machine' algorithm to manage the states and lifecycle.
 		* Used significant CSS3 3d transform to enhanced the animation effects.
 	
@@ -146,32 +206,24 @@
 	
 	* ##### High secure online car race: 
 		* Responsible for high secure javascript to prevent cheating in game. Work with team to develop solutions to detect the javascript hacking and illegal actions.
-    	* Responsible for the Car Drift Physical Simulation, and front end architecture design.
+    	* Designed a solution for runing JavaScript on Node.js server to validate the user action.
 
-* #### Mobile hybrid javascript framework
-   
-	* Hybrid JavaScript framework
-    	* Experience with designing and development of the js-bridge library for Alibaba Native Apps, both on iOS and Android webview;
-    	* Consume hybrid apis to enhance the webview interactions and functionalities in practical projects.
-
-	* GCanvas - Enhanced Canvas API in Webview
-    	* This is a webview plugin for Android platform. The API will call native api via js-bridge connection, then using openGL instead of webview canvas to render a extra layer upon the webview layer. This can improve the canvas2d and WebGL performance in Android webview significantly.
-    	* Responsible for framework api design, consuming and testing canvas api in variety of practical projects.
+* #### Mobile hybrid framework
+ 
+    * Experience with designing and development of the js-bridge library for Alibaba Native Apps, both on iOS and Android webview;
+    * Consume hybrid apis to enhance the webview interactions and functionalities in practical projects.
 
 * #### HTML5 Game develop and framework design
 	
 	* Responsible for enhancement of interaction in e-business. Took charge of lots of innovative html5 games as a major role.
-	
-	* ##### Hilo Game Engine [https://github.com/hiloteam/](https://github.com/hiloteam/) 
-    	* A Cross-end HTML5 Game development solution, could help developers build web games conveniently in minutes.
-		* Participated as a main memebar in the team, Responsible for api design, integration building, modules support, testing, plugins, and relevant tools.
-	* ##### Games in Hybrid App
-		* Web Games deployed in Alibaba Hybrid App. I pushed the team to start game development by using "Phaser" engine. Then I developed my own Canvas Library "Com.js" and use it in next game. 
-		* Used Hilo engine to develop several creative web game, following in my portfolio
+	* Cross-end HTML5 Game development solution, could help developers build web games conveniently in minutes.
+	* Web Games deployed in Alibaba Hybrid App. Developed several creative web game, following in my portfolio
 
 ## Portfolio
 
 * `Github`: [https://github.com/hlissnake](https://github.com/hlissnake)
+
+* Brtiz Booking Component: [booking.britz.co.nz](https://booking.britz.co.nz)
 
 * `Com.js` [github repo](https://github.com/hlissnake/com.js) : A Virtual Display Object Library for html5 canvas basic graphic.
 
@@ -194,3 +246,6 @@
 * React UI Demos:
     * [Tree Component](http://hlissnake.github.io/react-ui/demo/tree/)
     * [SlideShow](http://hlissnake.github.io/react-ui/demo/slide/)
+
+* Proxy tool based on Express
+    * waiting to be publish on NPM 
